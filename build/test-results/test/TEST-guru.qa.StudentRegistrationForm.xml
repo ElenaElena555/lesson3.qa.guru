@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="guru.qa.StudentRegistrationForm" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-29T16:29:54" hostname="HELEN" time="5.794">
+<testsuite name="guru.qa.StudentRegistrationForm" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-31T14:49:29" hostname="HELEN" time="5.694">
   <properties/>
-  <testcase name="fillFormTest()" classname="guru.qa.StudentRegistrationForm" time="5.794"/>
+  <testcase name="fillFormTest()" classname="guru.qa.StudentRegistrationForm" time="5.694"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
@@ -9,11 +9,11 @@ SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
 SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
 SLF4J: Ignoring binding found at [jar:file:/C:/Users/ElenaSharapova/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.36/a41f9cfe6faafb2eb83a1c7dd2d0dfd844e2a936/slf4j-simple-1.7.36.jar!/org/slf4j/impl/StaticLoggerBinder.class]
 SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
-Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 32167
+Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 36574
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-May 29, 2023 6:29:57 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+May 31, 2023 4:49:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 113, so returning the closest version found: 110
 ]]></system-err>
 </testsuite>
