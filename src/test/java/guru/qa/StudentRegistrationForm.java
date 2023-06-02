@@ -39,9 +39,11 @@ public class StudentRegistrationForm {
 
     @Test
     void fillFormTest() {
-
+        //arrange
         open("https://demoqa.com/automation-practice-form");
         zoom(0.75);
+
+        //act
         $(".practice-form-wrapper").shouldHave(text("Student Registration Form"));
         $("[id=firstName]").setValue(name);
         $("#lastName").setValue(lastName);
@@ -67,6 +69,8 @@ public class StudentRegistrationForm {
         // [id=  #
         // [class=  .
 
+
+        //assert
         $(".modal-body").shouldHave(
                 text(name + " " + lastName),
                 text(email),

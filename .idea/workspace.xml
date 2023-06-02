@@ -4,27 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="added StudentRegistrationForm">
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/1.jpg" afterDir="false" />
+    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="added StudentRegistrationFormChanges">
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormFaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormWithRandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormWithTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormwirhPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/RegistrationFormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/components/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/UtilsExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegistrationForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegistrationForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.StudentRegistrationForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.StudentRegistrationForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.StudentRegistrationForm.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.StudentRegistrationForm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.StudentRegistrationForm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.StudentRegistrationForm.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/SimpleClass.class.uniqueId0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationForm.java" afterDir="false" />
     </list>
@@ -85,9 +92,25 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ElenaSharapova\IdeaProjects\lesson3.qa.guru\src\test\java\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guru.qa" />
+    </key>
   </component>
-  <component name="RunManager" selected="Gradle.StudentRegistrationForm.fillFormTest">
-    <configuration name="SimpleClass" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.StudentRegistrationFormwirhPageObject">
+    <configuration name="UtilsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.UtilsExamples" />
+      <module name="lesson3.qa.guru.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRegistrationFormFaker" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -100,7 +123,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.SimpleClass&quot;" />
+            <option value="&quot;guru.qa.StudentRegistrationFormFaker&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -111,7 +134,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="StudentRegistrationForm" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StudentRegistrationFormWithRandomUtils" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -124,7 +147,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.StudentRegistrationForm&quot;" />
+            <option value="&quot;guru.qa.StudentRegistrationFormWithRandomUtils&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -135,7 +158,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="StudentRegistrationFormNegative" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StudentRegistrationFormwirhPageObject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -148,7 +171,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.StudentRegistrationFormNegative&quot;" />
+            <option value="&quot;guru.qa.StudentRegistrationFormwirhPageObject&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -159,7 +182,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="StudentRegistrationFormNegative.checkNegativeOption" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StudentRegistrationFormwirhPageObject.fillFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -172,31 +195,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.StudentRegistrationFormNegative.checkNegativeOption&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
-    <configuration name="StudentRegistrationForm.fillFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;guru.qa.StudentRegistrationForm.fillFormTest&quot;" />
+            <option value="&quot;guru.qa.StudentRegistrationFormwirhPageObject.fillFormTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -209,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.StudentRegistrationForm.fillFormTest" />
-        <item itemvalue="Gradle.StudentRegistrationFormNegative.checkNegativeOption" />
-        <item itemvalue="Gradle.StudentRegistrationFormNegative" />
-        <item itemvalue="Gradle.StudentRegistrationForm" />
-        <item itemvalue="Gradle.SimpleClass" />
+        <item itemvalue="Gradle.StudentRegistrationFormwirhPageObject" />
+        <item itemvalue="Gradle.StudentRegistrationFormwirhPageObject.fillFormTest" />
+        <item itemvalue="Gradle.StudentRegistrationFormFaker" />
+        <item itemvalue="Gradle.StudentRegistrationFormWithRandomUtils" />
+        <item itemvalue="Application.UtilsExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685378071574</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added StudentRegistrationFormChanges">
+      <created>1685545752271</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685545752271</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +286,7 @@
     <MESSAGE value="added build.gradle file" />
     <MESSAGE value="added build.gradle file and first test" />
     <MESSAGE value="added StudentRegistrationForm" />
-    <option name="LAST_COMMIT_MESSAGE" value="added StudentRegistrationForm" />
+    <MESSAGE value="added StudentRegistrationFormChanges" />
+    <option name="LAST_COMMIT_MESSAGE" value="added StudentRegistrationFormChanges" />
   </component>
 </project>
