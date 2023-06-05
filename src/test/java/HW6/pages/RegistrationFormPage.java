@@ -1,8 +1,8 @@
-package pages;
+package HW6.pages;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.SelenideElement;
-import pages.components.Calendar;
+import HW6.pages.components.Calendar;
 
 import java.io.File;
 

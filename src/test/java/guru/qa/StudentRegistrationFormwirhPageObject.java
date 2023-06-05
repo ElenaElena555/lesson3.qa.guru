@@ -3,14 +3,7 @@ package guru.qa;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import pages.RegistrationFormPage;
-import pages.components.Calendar;
-
-import java.io.File;
-
-import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Selectors.byText;
-import static com.codeborne.selenide.Selenide.*;
+import HW6.pages.RegistrationFormPage;
 
 public class StudentRegistrationFormwirhPageObject {
     RegistrationFormPage registrationFormPage = new RegistrationFormPage();

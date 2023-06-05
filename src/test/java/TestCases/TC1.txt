@@ -1,0 +1,50 @@
+Test-case #1
+Summary:
+Preconditions: Searching dresses on Amazon by Search option
+
+STR:
+1. Open the page https://www.amazon.com/
+2. Add the "dresses"
+3. Click loop button to start searching
+
+ER:
+The Results page with dresses should be opened
+
+Test-case #2
+Summary:
+Preconditions: Searching jeans on Amazon by Search option
+
+STR:
+1. Open the page https://www.amazon.com/
+2. Add the "jeans"
+3. Click loop button to start searching
+
+ER:
+The Results page with jeans should be opened
+
+Test-case #3(Parametrized)
+test data :[dresses; jeans]
+Summary:
+Preconditions: Searching [Test Data]] on Amazon by Search option
+
+STR:
+1. Open the page https://www.amazon.com/
+2. Add the [Test data]
+3. Click loop button to start searching
+
+ER:
+The Results page with [Test data] should be opened
+
+Test-case #4(Parametrized with two arguments)
+test data :[[dresses, Amazon Essentials Women's Short-Sleeve Scoop Neck Swing Dress (Available in Plus Size)];
+            [jeans,Amazon Essentials Men's Slim-Fit Stretch Jean]]
+Summary:
+Preconditions: Searching {Test Data[0]} on Amazon by Search option
+
+STR:
+1. Open the page https://www.amazon.com/
+2. Add the [Test data]
+3. Click loop button to start searching
+
+ER:
+The Results page with {Test data[1]} should be opened

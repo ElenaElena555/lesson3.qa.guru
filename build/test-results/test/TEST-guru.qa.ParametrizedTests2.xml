@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="guru.qa.StudentRegistrationFormwirhPageObject" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-02T15:06:15" hostname="HELEN" time="6.757">
+<testsuite name="guru.qa.ParametrizedTests2" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-05T14:09:04" hostname="HELEN" time="18.527">
   <properties/>
-  <testcase name="fillFormTest()" classname="guru.qa.StudentRegistrationFormwirhPageObject" time="6.757"/>
+  <testcase name="Searching BABY on Amazon by Search option" classname="guru.qa.ParametrizedTests2" time="9.642"/>
+  <testcase name="Searching BOOKS on Amazon by Search option" classname="guru.qa.ParametrizedTests2" time="4.519"/>
+  <testcase name="Searching ALL on Amazon by Search option" classname="guru.qa.ParametrizedTests2" time="4.362"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
@@ -9,11 +11,11 @@ SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
 SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
 SLF4J: Ignoring binding found at [jar:file:/C:/Users/ElenaSharapova/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.36/a41f9cfe6faafb2eb83a1c7dd2d0dfd844e2a936/slf4j-simple-1.7.36.jar!/org/slf4j/impl/StaticLoggerBinder.class]
 SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
-Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 40510
+Starting ChromeDriver 113.0.5672.63 (0e1a4471d5ae5bf128b1bd8f4d627c8cbd55f70c-refs/branch-heads/5672@{#912}) on port 35827
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jun 02, 2023 5:06:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jun 05, 2023 4:09:07 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 113, so returning the closest version found: 110
 ]]></system-err>
 </testsuite>
