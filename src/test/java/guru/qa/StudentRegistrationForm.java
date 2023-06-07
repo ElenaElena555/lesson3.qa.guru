@@ -1,23 +1,18 @@
 package guru.qa;
 
 import com.codeborne.selenide.Configuration;
-import com.codeborne.selenide.Selenide;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;
 
 import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Selectors.byName;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
-import static java.awt.SystemColor.scrollbar;
-import static java.awt.SystemColor.window;
-import static java.lang.Thread.sleep;
+
 
 public class StudentRegistrationForm {
     String name = "Elena";
-    //  String pets = "Marusy";
     String lastName = "Sharapova";
     String email = "lenasyhanova@yandex.ru";
     String phoneNumber = "8921423256";
@@ -36,7 +31,7 @@ public class StudentRegistrationForm {
 
     }
 
-    ;
+
 
     @Test
     void fillFormTest() {
@@ -59,7 +54,7 @@ public class StudentRegistrationForm {
         $("#subjectsInput").setValue("Maths").pressEnter();
         $("#hobbies-checkbox-2").parent().click();
         // $(byText("Sports")).click();
-        File file = $("#uploadPicture").uploadFromClasspath("1.jpg");
+        $("#uploadPicture").uploadFromClasspath("1.jpg");
         $("#currentAddress").setValue(address);
         $("#stateCity-wrapper").click();
         $("#stateCity-wrapper").$(byText(state)).click();
