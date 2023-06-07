@@ -4,35 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="added StudentRegistrationFormWithPageObject">
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW6/ParametrizedTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW6/pages/ParametrizedPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases/TC1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/ParametrizedTests2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/domain/MenuItem.java" afterDir="false" />
+    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="added HW6">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW7/AnnotatedGitHubTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW7/GitHubTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW7/LabelsGitHubTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW7/LambdaGitHubTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW7/ParametrizedGitHubTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW7/WebSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegistrationFormwirhPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegistrationFormwirhPageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/pages/RegistrationFormPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.StudentRegistrationFormwirhPageObject.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.ParametrizedTests2.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.StudentRegistrationFormwirhPageObject.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.ParametrizedTests2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/RegistrationFormPage.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/StudentRegistrationFormwirhPageObject.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/MenuItem.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/ParametrizedTests2.class.uniqueId1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormwirhPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormwirhPageObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/RegistrationFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW6/pages/RegistrationFormPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/components/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW6/pages/components/Calendar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +59,23 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="lesson3.qa.guru" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lesson3.qa.guru" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lesson3.qa.guru" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lesson3.qa.guru" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -74,6 +93,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="da0dd099-1724-414c-8e89-3090dd304f27" />
+        <option name="url" value="git@github.com:ElenaElena555/lesson3.qa.guru.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2QNtpFTyA6Q7Mac8D0pNLhEsiyZ" />
   <component name="ProjectViewState">
@@ -93,11 +125,12 @@
       <recent name="C:\Users\ElenaSharapova\IdeaProjects\lesson3.qa.guru\src\test\java\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guru.qa.HW7" />
       <recent name="guru.qa" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ParametrizedTests2.SearchingMenuItemsTest">
-    <configuration name="ParametrizedTests2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.lesson3.qa.guru [allureServe]">
+    <configuration name="AnnotatedGitHubTests.checkGitHubIssueSearcher" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -110,7 +143,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.ParametrizedTests2&quot;" />
+            <option value="&quot;guru.qa.HW7.AnnotatedGitHubTests.checkGitHubIssueSearcher&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -121,7 +154,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="ParametrizedTests2.SearchingMenuItemsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LabelsGitHubTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -134,7 +167,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.ParametrizedTests2.SearchingMenuItemsTest&quot;" />
+            <option value="&quot;guru.qa.HW7.LabelsGitHubTests&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -145,7 +178,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="ParametrizedTests2.complexTestForSearching" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LabelsGitHubTests.annotatedTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -158,7 +191,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.ParametrizedTests2.complexTestForSearching&quot;" />
+            <option value="&quot;guru.qa.HW7.LabelsGitHubTests.annotatedTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -169,7 +202,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="ParametrizedTests2.firstTestForSearching" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ParametrizedGitHubTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -182,7 +215,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.ParametrizedTests2.firstTestForSearching&quot;" />
+            <option value="&quot;guru.qa.HW7.ParametrizedGitHubTests&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -193,37 +226,35 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="ParametrizedTests2.methodSourceExampleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="lesson3.qa.guru [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;guru.qa.ParametrizedTests2.methodSourceExampleTest&quot;" />
+            <option value="allureServe" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
+      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ParametrizedTests2.SearchingMenuItemsTest" />
-        <item itemvalue="Gradle.ParametrizedTests2.methodSourceExampleTest" />
-        <item itemvalue="Gradle.ParametrizedTests2.complexTestForSearching" />
-        <item itemvalue="Gradle.ParametrizedTests2.firstTestForSearching" />
-        <item itemvalue="Gradle.ParametrizedTests2" />
+        <item itemvalue="Gradle.lesson3.qa.guru [allureServe]" />
+        <item itemvalue="Gradle.ParametrizedGitHubTests" />
+        <item itemvalue="Gradle.LabelsGitHubTests.annotatedTest" />
+        <item itemvalue="Gradle.LabelsGitHubTests" />
+        <item itemvalue="Gradle.AnnotatedGitHubTests.checkGitHubIssueSearcher" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685718559925</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added HW6">
+      <created>1685974351982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685974351982</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +344,7 @@
     <MESSAGE value="added StudentRegistrationForm" />
     <MESSAGE value="added StudentRegistrationFormChanges" />
     <MESSAGE value="added StudentRegistrationFormWithPageObject" />
-    <option name="LAST_COMMIT_MESSAGE" value="added StudentRegistrationFormWithPageObject" />
+    <MESSAGE value="added HW6" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HW6" />
   </component>
 </project>
