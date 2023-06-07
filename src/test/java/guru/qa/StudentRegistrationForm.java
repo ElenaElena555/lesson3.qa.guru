@@ -17,7 +17,7 @@ import static java.lang.Thread.sleep;
 
 public class StudentRegistrationForm {
     String name = "Elena";
-    String pets = "Marusy";
+    //  String pets = "Marusy";
     String lastName = "Sharapova";
     String email = "lenasyhanova@yandex.ru";
     String phoneNumber = "8921423256";
