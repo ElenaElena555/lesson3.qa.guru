@@ -1,7 +1,6 @@
 package guru.qa.HW7;
 
 
-import com.beust.ah.A;
 import io.qameta.allure.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
