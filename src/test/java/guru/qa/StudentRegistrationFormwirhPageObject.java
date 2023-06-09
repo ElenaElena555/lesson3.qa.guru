@@ -3,7 +3,7 @@ package guru.qa;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import HW6.pages.RegistrationFormPage;
+import guru.qa.HW6.pages.RegistrationFormPage;
 
 public class StudentRegistrationFormwirhPageObject {
     RegistrationFormPage registrationFormPage = new RegistrationFormPage();

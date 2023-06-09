@@ -4,7 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="added HW7-changes" />
+    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="added HW7-changes2">
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW8/SelenideDownloadedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/CSV.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/ClientOrgEntityAccessImport.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/File1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/File1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/File2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Hello.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Image.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/PDFZIP.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Table1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/teachers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/word2.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/HW6/ParametrizedTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/HW6/pages/ParametrizedPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/HW6/pages/RegistrationFormPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/HW6/pages/components/Calendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW7/LabelsGitHubTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW7/LabelsGitHubTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW7/WebSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW7/WebSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/ParametrizedTests2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegistrationForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegistrationFormwirhPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegistrationFormwirhPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.HW7.ParametrizedGitHubTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.HW7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.HW7.ParametrizedGitHubTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW6/ParametrizedTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW6/ParametrizedTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW6/pages/ParametrizedPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW6/pages/ParametrizedPages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW6/pages/RegistrationFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW6/pages/RegistrationFormPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW6/pages/components/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW6/pages/components/Calendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/ParametrizedTests2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW6/ParametrizedTests2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormwirhPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormwirhPageObject.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +103,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -76,6 +124,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2QNtpFTyA6Q7Mac8D0pNLhEsiyZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -91,6 +142,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ElenaSharapova\IdeaProjects\lesson3.qa.guru\src\test\resources" />
       <recent name="C:\Users\ElenaSharapova\IdeaProjects\lesson3.qa.guru\src\test\java\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -98,8 +150,8 @@
       <recent name="guru.qa" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.lesson3.qa.guru [allureServe]">
-    <configuration name="AnnotatedGitHubTests.checkGitHubIssueSearcher" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.SelenideDownloadedTest.zipPNGParsingTest">
+    <configuration name="SelenideDownloadedTest.csvParsingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -112,7 +164,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.HW7.AnnotatedGitHubTests.checkGitHubIssueSearcher&quot;" />
+            <option value="&quot;guru.qa.HW8.SelenideDownloadedTest.csvParsingTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -123,7 +175,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="LabelsGitHubTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SelenideDownloadedTest.xlsParsingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -136,7 +188,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.HW7.LabelsGitHubTests&quot;" />
+            <option value="&quot;guru.qa.HW8.SelenideDownloadedTest.xlsParsingTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -147,7 +199,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="LabelsGitHubTests.annotatedTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SelenideDownloadedTest.zipPDFParsingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -160,7 +212,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.HW7.LabelsGitHubTests.annotatedTest&quot;" />
+            <option value="&quot;guru.qa.HW8.SelenideDownloadedTest.zipPDFParsingTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -171,7 +223,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="ParametrizedGitHubTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SelenideDownloadedTest.zipPNGParsingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -184,7 +236,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.HW7.ParametrizedGitHubTests&quot;" />
+            <option value="&quot;guru.qa.HW8.SelenideDownloadedTest.zipPNGParsingTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -195,35 +247,37 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="lesson3.qa.guru [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SelenideDownloadedTest.zipParsingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="allureServe" />
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.HW8.SelenideDownloadedTest.zipParsingTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>false</ForceTestExec>
+      <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.lesson3.qa.guru [allureServe]" />
-        <item itemvalue="Gradle.ParametrizedGitHubTests" />
-        <item itemvalue="Gradle.LabelsGitHubTests.annotatedTest" />
-        <item itemvalue="Gradle.LabelsGitHubTests" />
-        <item itemvalue="Gradle.AnnotatedGitHubTests.checkGitHubIssueSearcher" />
+        <item itemvalue="Gradle.SelenideDownloadedTest.zipPNGParsingTest" />
+        <item itemvalue="Gradle.SelenideDownloadedTest.zipPDFParsingTest" />
+        <item itemvalue="Gradle.SelenideDownloadedTest.zipParsingTest" />
+        <item itemvalue="Gradle.SelenideDownloadedTest.csvParsingTest" />
+        <item itemvalue="Gradle.SelenideDownloadedTest.xlsParsingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686129838173</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added HW7-changes2">
+      <created>1686129989535</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686129989535</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,6 +406,7 @@
     <MESSAGE value="added HW7" />
     <MESSAGE value="added HW7-1" />
     <MESSAGE value="added HW7-changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added HW7-changes" />
+    <MESSAGE value="added HW7-changes2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added HW7-changes2" />
   </component>
 </project>
