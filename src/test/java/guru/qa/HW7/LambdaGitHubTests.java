@@ -5,6 +5,7 @@ import com.codeborne.selenide.WebDriverRunner;
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.Allure;
 import io.qameta.allure.selenide.AllureSelenide;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import java.nio.charset.StandardCharsets;
@@ -14,7 +15,7 @@ import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 import static io.qameta.allure.Allure.addAttachment;
 import static io.qameta.allure.Allure.step;
-
+@Tag("demoqa")
 public class LambdaGitHubTests {
     private static final String REPOZITORIY = "/ElenaElena555";
 

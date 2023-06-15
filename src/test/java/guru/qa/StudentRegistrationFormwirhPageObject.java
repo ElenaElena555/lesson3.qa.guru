@@ -2,9 +2,11 @@ package guru.qa;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import guru.qa.HW6.pages.RegistrationFormPage;
 
+@Tag("demoqa")
 public class StudentRegistrationFormwirhPageObject {
     RegistrationFormPage registrationFormPage = new RegistrationFormPage();
 
