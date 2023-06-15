@@ -27,6 +27,8 @@ public class RegistrationFormPage {
         open("https://demoqa.com/automation-practice-form");
         zoom(0.75);
         $(".practice-form-wrapper").shouldHave(text("Student Registration Form"));
+        executeJavaScript("$('footer').remove()");
+        executeJavaScript("$('#fixedban').remove()");
         return this;
     }
 

@@ -33,9 +33,10 @@ public class StudentRegistrationFormwirhPageObject {
         //Configuration.baseUrl = "https://demoqa.com/";
         Configuration.browserSize = "1420x1070";
 
+
     }
 
-    ;
+
 
     @Test
     void fillFormTest() {

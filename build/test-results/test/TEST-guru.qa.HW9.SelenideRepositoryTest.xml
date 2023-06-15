@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="guru.qa.HW9.SelenideRepositoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-15T14:21:10" hostname="HELEN" time="2.291">
-  <properties/>
-  <testcase name="shouldFindSelenideAsfirstreppository()" classname="guru.qa.HW9.SelenideRepositoryTest" time="2.291"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

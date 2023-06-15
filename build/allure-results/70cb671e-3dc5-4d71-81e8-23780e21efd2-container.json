@@ -1,1 +1,0 @@
-{"uuid":"70cb671e-3dc5-4d71-81e8-23780e21efd2","name":"StudentRegistrationFormWithTestData","children":["de8849fd-b486-491e-8414-d1f50314d99e"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1686838800562,"stop":1686838800562}],"afters":[],"start":1686838800561,"stop":1686838803124}
