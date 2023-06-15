@@ -5,10 +5,11 @@ import guru.qa.HW6.pages.RegistrationFormPage;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
-public class StudentRegistrationFormforJenkins {
+public class RegistrationFormTest {
     RegistrationFormPage registrationFormPage = new RegistrationFormPage();
 
     String name = "Elena";
+
     String lastName = "Sharapova";
     String email = "lenasyhanova@yandex.ru";
     String phoneNumber = "8921423256";
@@ -35,7 +36,7 @@ public class StudentRegistrationFormforJenkins {
 
     }
 
-    ;
+
 
     @Test
     void fillFormTest() {
@@ -55,7 +56,7 @@ public class StudentRegistrationFormforJenkins {
                 .setCity(city)
                 .setBirthday(day, month, year)
                 .submitRegistrationForm();
-        ;
+
 
 
         //assert
