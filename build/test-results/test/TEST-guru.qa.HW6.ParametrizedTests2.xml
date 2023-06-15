@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guru.qa.HW6.ParametrizedTests2" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-06-15T14:20:14" hostname="HELEN" time="40.219">
+  <properties/>
+  <testcase name="Searching dresses on Amazon by Search option" classname="guru.qa.HW6.ParametrizedTests2" time="5.603"/>
+  <testcase name="Searching jeans on Amazon by Search option" classname="guru.qa.HW6.ParametrizedTests2" time="6.859"/>
+  <testcase name="Searching BABY on Amazon by Search option" classname="guru.qa.HW6.ParametrizedTests2" time="4.234"/>
+  <testcase name="Searching BOOKS on Amazon by Search option" classname="guru.qa.HW6.ParametrizedTests2" time="3.963"/>
+  <testcase name="Searching ALL on Amazon by Search option" classname="guru.qa.HW6.ParametrizedTests2" time="3.678"/>
+  <testcase name="Searching dresses on Amazon by Search option, expect the result results for &quot;dresses&quot;" classname="guru.qa.HW6.ParametrizedTests2" time="4.636"/>
+  <testcase name="Searching jeans on Amazon by Search option, expect the result results for &quot;jeans&quot;" classname="guru.qa.HW6.ParametrizedTests2" time="3.808"/>
+  <testcase name="[1] jeans, [Amazon Essentials, Levi's]" classname="guru.qa.HW6.ParametrizedTests2" time="3.849"/>
+  <testcase name="[2] dresses, [Amazon Essentials, Dokotoo]" classname="guru.qa.HW6.ParametrizedTests2" time="3.523"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

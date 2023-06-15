@@ -20,13 +20,13 @@
 <tr>
 <td>
 <div class="infoBox" id="tests">
-<div class="counter">1</div>
+<div class="counter">34</div>
 <p>tests</p>
 </div>
 </td>
 <td>
 <div class="infoBox" id="failures">
-<div class="counter">0</div>
+<div class="counter">4</div>
 <p>failures</p>
 </div>
 </td>
@@ -38,7 +38,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">7.139s</div>
+<div class="counter">1m41.27s</div>
 <p>duration</p>
 </div>
 </td>
@@ -47,8 +47,8 @@
 </div>
 </td>
 <td>
-<div class="infoBox success" id="successRate">
-<div class="percent">100%</div>
+<div class="infoBox failures" id="successRate">
+<div class="percent">88%</div>
 <p>successful</p>
 </div>
 </td>
@@ -58,13 +58,37 @@
 <div id="tabs">
 <ul class="tabLinks">
 <li>
-<a href="#tab0">Packages</a>
+<a href="#tab0">Failed tests</a>
 </li>
 <li>
-<a href="#tab1">Classes</a>
+<a href="#tab1">Packages</a>
+</li>
+<li>
+<a href="#tab2">Classes</a>
 </li>
 </ul>
 <div id="tab0" class="tab">
+<h2>Failed tests</h2>
+<ul class="linkList">
+<li>
+<a href="classes/guru.qa.HW6.ParametrizedTests.html">ParametrizedTests</a>.
+<a href="classes/guru.qa.HW6.ParametrizedTests.html#firstTest()">Test#1</a>
+</li>
+<li>
+<a href="classes/guru.qa.HW8.SelenideDownloadedTest.html">SelenideDownloadedTest</a>.
+<a href="classes/guru.qa.HW8.SelenideDownloadedTest.html#csvParsingTest()">Check the CSV file</a>
+</li>
+<li>
+<a href="classes/guru.qa.SimpleClass.html">SimpleClass</a>.
+<a href="classes/guru.qa.SimpleClass.html#assertTest()">assertTest()</a>
+</li>
+<li>
+<a href="classes/guru.qa.StudentRegForm.html">StudentRegForm</a>.
+<a href="classes/guru.qa.StudentRegForm.html#fillFormTest()">fillFormTest()</a>
+</li>
+</ul>
+</div>
+<div id="tab1" class="tab">
 <h2>Packages</h2>
 <table>
 <thead>
@@ -79,19 +103,59 @@
 </thead>
 <tbody>
 <tr>
+<td class="failures">
+<a href="packages/guru.qa.html">guru.qa</a>
+</td>
+<td>7</td>
+<td>2</td>
+<td>0</td>
+<td>35.275s</td>
+<td class="failures">71%</td>
+</tr>
+<tr>
+<td class="failures">
+<a href="packages/guru.qa.HW6.html">guru.qa.HW6</a>
+</td>
+<td>10</td>
+<td>1</td>
+<td>0</td>
+<td>47.789s</td>
+<td class="failures">90%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="packages/guru.qa.HW7.html">guru.qa.HW7</a>
+</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>6.810s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="failures">
+<a href="packages/guru.qa.HW8.html">guru.qa.HW8</a>
+</td>
+<td>7</td>
+<td>1</td>
+<td>0</td>
+<td>3.151s</td>
+<td class="failures">85%</td>
+</tr>
+<tr>
 <td class="success">
 <a href="packages/guru.qa.HW9.html">guru.qa.HW9</a>
 </td>
-<td>1</td>
+<td>4</td>
 <td>0</td>
 <td>0</td>
-<td>7.139s</td>
+<td>8.249s</td>
 <td class="success">100%</td>
 </tr>
 </tbody>
 </table>
 </div>
-<div id="tab1" class="tab">
+<div id="tab2" class="tab">
 <h2>Classes</h2>
 <table>
 <thead>
@@ -106,13 +170,193 @@
 </thead>
 <tbody>
 <tr>
+<td class="failures">
+<a href="classes/guru.qa.SimpleClass.html">guru.qa.SimpleClass</a>
+</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>10.728s</td>
+<td class="failures">0%</td>
+</tr>
+<tr>
+<td class="failures">
+<a href="classes/guru.qa.StudentRegForm.html">guru.qa.StudentRegForm</a>
+</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>12.494s</td>
+<td class="failures">0%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.StudentRegistrationFormFaker.html">guru.qa.StudentRegistrationFormFaker</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>2.501s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.StudentRegistrationFormNegative.html">guru.qa.StudentRegistrationFormNegative</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1.079s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.StudentRegistrationFormWithRandomUtils.html">guru.qa.StudentRegistrationFormWithRandomUtils</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>2.306s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.StudentRegistrationFormWithTestData.html">guru.qa.StudentRegistrationFormWithTestData</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>2.558s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.StudentRegistrationFormwirhPageObject.html">guru.qa.StudentRegistrationFormwirhPageObject</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>3.609s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="failures">
+<a href="classes/guru.qa.HW6.ParametrizedTests.html">guru.qa.HW6.ParametrizedTests</a>
+</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>7.636s</td>
+<td class="failures">0%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.HW6.ParametrizedTests2.html">guru.qa.HW6.ParametrizedTests2</a>
+</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>40.153s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.HW7.AnnotatedGitHubTests.html">guru.qa.HW7.AnnotatedGitHubTests</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>3.311s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.HW7.GitHubTests.html">guru.qa.HW7.GitHubTests</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1.781s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.HW7.LabelsGitHubTests.html">guru.qa.HW7.LabelsGitHubTests</a>
+</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0.010s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.HW7.LambdaGitHubTests.html">guru.qa.HW7.LambdaGitHubTests</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1.705s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.HW7.ParametrizedGitHubTests.html">guru.qa.HW7.ParametrizedGitHubTests</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0.003s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="failures">
+<a href="classes/guru.qa.HW8.SelenideDownloadedTest.html">guru.qa.HW8.SelenideDownloadedTest</a>
+</td>
+<td>7</td>
+<td>1</td>
+<td>0</td>
+<td>3.151s</td>
+<td class="failures">85%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.HW9.ContributorTest.html">guru.qa.HW9.ContributorTest</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1.873s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
 <td class="success">
 <a href="classes/guru.qa.HW9.DragAndDropTest.html">guru.qa.HW9.DragAndDropTest</a>
 </td>
 <td>1</td>
 <td>0</td>
 <td>0</td>
-<td>7.139s</td>
+<td>1.935s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.HW9.SelenideHW9Test.html">guru.qa.HW9.SelenideHW9Test</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>2.150s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/guru.qa.HW9.SelenideRepositoryTest.html">guru.qa.HW9.SelenideRepositoryTest</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>2.291s</td>
 <td class="success">100%</td>
 </tr>
 </tbody>
@@ -126,7 +370,7 @@
 <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
 </label>
 </div>Generated by 
-<a href="http://www.gradle.org">Gradle 8.0</a> at Jun 13, 2023, 2:18:01 PM</p>
+<a href="http://www.gradle.org">Gradle 7.4.2</a> at Jun 15, 2023, 4:21:13 PM</p>
 </div>
 </div>
 </body>
