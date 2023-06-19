@@ -20,7 +20,7 @@ public class RegistrationFormPage {
         Configuration.holdBrowserOpen = true;
         //     Configuration.baseUrl = "https://demoqa.com/";
         Configuration.browserSize = "1420x1070";
-
+        Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
     }
 
     public RegistrationFormPage openPage() {

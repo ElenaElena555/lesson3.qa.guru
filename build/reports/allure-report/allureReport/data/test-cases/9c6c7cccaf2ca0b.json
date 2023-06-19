@@ -1,0 +1,90 @@
+{
+  "uid" : "9c6c7cccaf2ca0b",
+  "name" : "fillFormTest()",
+  "fullName" : "guru.qa.StudentRegistrationFormwirhPageObject.fillFormTest",
+  "historyId" : "da8a2bc996a9478637c14a45fc6bf241",
+  "time" : {
+    "start" : 1686918976018,
+    "stop" : 1686919018403,
+    "duration" : 42385
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1686918975804,
+      "stop" : 1686918975824,
+      "duration" : 20
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "demoqa"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:guru.qa.StudentRegistrationFormwirhPageObject]/[method:fillFormTest()]"
+  }, {
+    "name" : "host",
+    "value" : "Helen"
+  }, {
+    "name" : "thread",
+    "value" : "16028@Helen.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.qa.StudentRegistrationFormwirhPageObject"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.qa.StudentRegistrationFormwirhPageObject"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillFormTest"
+  }, {
+    "name" : "suite",
+    "value" : "guru.qa.StudentRegistrationFormwirhPageObject"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b223bb024da57fce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686918892464,
+        "stop" : 1686918941561,
+        "duration" : 49097
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "demoqa" ]
+  },
+  "source" : "9c6c7cccaf2ca0b.json",
+  "parameterValues" : [ ]
+}

@@ -4,17 +4,226 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="Added executeJavaScript to RegistrationFormPage">
+    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="Added  allure attachments-3">
+      <change afterPath="$PROJECT_DIR$/build/allure-results/014b99a7-de4c-46f3-907f-60067634b7e4-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/05cd5970-f2b0-4f9f-ba20-268c9bf9c8f0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/23763425-2c94-4e4d-8f72-954628c3d0b1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/26157331-fe90-4603-9bc8-502d90cf8d40-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/4fa328e2-e166-4d9a-884f-2cca16cdae65-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/5c2f9a46-ac18-4737-8fae-23b7d61fb0b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/5cafb276-79e7-4f00-a634-8531d9df313a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/62e53f8f-454f-42a9-87d8-134eb6833ae2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/6a2f1beb-db42-409c-80ef-6755d6412905-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/9b815f2e-9572-451c-96fb-943efd9bb42c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/a2ce6cd8-8d55-4450-8192-6ac98c188d69-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/af6cb1b8-9d08-485c-a7ea-8e8b25fe1ddf-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/c2ef6bc3-7da0-4499-a97d-998f44198d62-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure-results/d46b50b1-a188-47d0-b50c-0ab40517e8f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/bin/allure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/bin/allure.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/config/allure-cucumber.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/config/allure-junit.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/config/allure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/allure-commandline-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/allure-generator-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/allure-model-2.17.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/allure-plugin-api-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/allure1-model-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/annotations-15.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/commons-collections4-4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/commons-lang3-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/commons-text-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/config/jetty-logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/config/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-ext-tables-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-ast-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-builder-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-collection-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-data-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-dependency-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-format-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-html-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-misc-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-options-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-sequence-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/flexmark-util-visitor-0.62.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/freemarker-2.3.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/httpclient-4.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/httpcore-4.4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jackson-annotations-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jackson-core-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jackson-databind-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jackson-dataformat-xml-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jackson-dataformat-yaml-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jackson-module-jaxb-annotations-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jakarta.activation-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jakarta.xml.bind-api-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jaxb-utils-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jcommander-1.82.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jetty-http-9.4.43.v20210629.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jetty-io-9.4.43.v20210629.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jetty-server-9.4.43.v20210629.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/jetty-util-9.4.43.v20210629.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/logback-classic-1.2.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/logback-core-1.2.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/opencsv-4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/properties-2.0.RC5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/slf4j-api-1.7.32.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/snakeyaml-1.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/stax2-api-4.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/tika-core-2.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/lib/woodstox-core-6.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/behaviors-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/behaviors-plugin/behaviors-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/behaviors-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/custom-logo-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/custom-logo-plugin/custom-logo-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/custom-logo-plugin/static/custom-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/custom-logo-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/jira-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/lib/allure-jira-commons-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/lib/converter-jackson-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/lib/jackson-annotations-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/lib/jackson-core-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/lib/jackson-databind-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/lib/okhttp-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/lib/okio-1.15.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/jira-plugin/lib/retrofit-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/junit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/junit-xml-plugin/junit-xml-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/packages-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/packages-plugin/packages-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/packages-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/screen-diff-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/screen-diff-plugin/screen-diff-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/screen-diff-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/screen-diff-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/trx-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/trx-plugin/trx-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xctest-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xctest-plugin/lib/xmlwise-1.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xctest-plugin/xctest-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/lib/allure-jira-commons-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/lib/converter-jackson-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/lib/jackson-annotations-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/lib/jackson-core-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/lib/jackson-databind-2.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/lib/okhttp-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/lib/okio-1.15.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/lib/retrofit-2.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xray-plugin/xray-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xunit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/allure/commandline/plugins/xunit-xml-plugin/xunit-xml-plugin-2.17.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/Helper/Attaches.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/attachments/1bb0137e75f47489.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/attachments/503edf5e1ef8b901.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/attachments/d72b68abea62f229.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/test-cases/6febc28c578d00fe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/test-cases/9c6c7cccaf2ca0b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/test-cases/b223bb024da57fce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/test-cases/dcc0457808b5176.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/plugins/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/plugins/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/plugins/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/plugins/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/classes/guru.qa.HW7.LambdaGitHubTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/classes/guru.qa.StudentRegistrationFormwirhPageObject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/packages/guru.qa.HW7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/packages/guru.qa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.HW12.RegistrationFormTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.HW12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.HW12.RegistrationFormTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/.cache/expanded/expanded.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/RegistrationFormPage.class.uniqueId2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/RegistrationFormTest.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/StudentRegistrationFormwirhPageObject.class.uniqueId1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/Helper/Attaches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/19c36b1d-6d04-4424-9af6-17899933e39e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2597f8a7-0735-43e5-87a8-f35be2c5b175-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/34d1ac7a-78d1-4955-a901-eb2c0a7c2f8a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/408935d8-25d7-4ba7-bdc9-e4973ac7ff1e-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/allure-results/6e6a93aa-1007-4ab0-98db-e327ac2bea9f-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/4f3580cc-bad8-430e-95c6-421fcbe9f4a9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/eace017b-8c4b-4d8b-acea-b7327438b662-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/executor.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/allure-results/executor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/fa9990a3-7779-4142-a7e8-eaaa320230cc-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW12/RegistrationFormTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW12/RegistrationFormTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW6/pages/RegistrationFormPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW6/pages/RegistrationFormPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW7/LambdaGitHubTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW7/LambdaGitHubTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegistrationFormwirhPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegistrationFormwirhPageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormwirhPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormwirhPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/HW12/RegistrationFormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW12/RegistrationFormTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/HW6/pages/RegistrationFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW6/pages/RegistrationFormPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormwirhPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegistrationFormWithPageObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,8 +324,8 @@
       <recent name="guru.qa" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.StudentRegistrationFormwirhPageObject.fillFormTest">
-    <configuration name="ContributorTest.solncevShouldBeFirstContributor" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.StudentRegForm.fillFormTest">
+    <configuration name="RegistrationFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -129,7 +338,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.HW9.ContributorTest.solncevShouldBeFirstContributor&quot;" />
+            <option value="&quot;guru.qa.HW12.RegistrationFormTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -140,7 +349,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="DragAndDropTest.checkDragDropOption" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StudentRegForm.fillFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -153,31 +362,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.HW9.DragAndDropTest.checkDragDropOption&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
-    <configuration name="SelenideHW9Test.checkSoftAssertionsPageForGitHub" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;guru.qa.HW9.SelenideHW9Test.checkSoftAssertionsPageForGitHub&quot;" />
+            <option value="&quot;guru.qa.StudentRegForm.fillFormTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -212,37 +397,57 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="StudentRegistrationFormwirhPageObject.fillFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="lesson3.qa.guru [allureReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;guru.qa.StudentRegistrationFormwirhPageObject.fillFormTest&quot;" />
+            <option value="allureReport" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson3.qa.guru [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="allureServe" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.StudentRegistrationFormwirhPageObject.fillFormTest" />
+        <item itemvalue="Gradle.StudentRegForm.fillFormTest" />
+        <item itemvalue="Gradle.lesson3.qa.guru [allureServe]" />
+        <item itemvalue="Gradle.lesson3.qa.guru [allureReport]" />
+        <item itemvalue="Gradle.RegistrationFormTest" />
         <item itemvalue="Gradle.StudentRegistrationFormwirhPageObject" />
-        <item itemvalue="Gradle.DragAndDropTest.checkDragDropOption" />
-        <item itemvalue="Gradle.SelenideHW9Test.checkSoftAssertionsPageForGitHub" />
-        <item itemvalue="Gradle.ContributorTest.solncevShouldBeFirstContributor" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686850779134</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added  gradle clean demoqa_tests">
+      <created>1686852392024</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1686852392024</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,6 +639,10 @@
     <MESSAGE value="Added separate package for Jenkins" />
     <MESSAGE value="Added separate package for Jenkins-2" />
     <MESSAGE value="Added executeJavaScript to RegistrationFormPage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added executeJavaScript to RegistrationFormPage" />
+    <MESSAGE value="Added  gradle clean demoqa_tests" />
+    <MESSAGE value="Added  allure attachments" />
+    <MESSAGE value="Added  allure attachments-2" />
+    <MESSAGE value="Added  allure attachments-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added  allure attachments-3" />
   </component>
 </project>

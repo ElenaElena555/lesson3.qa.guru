@@ -1,8 +1,13 @@
 package guru.qa.HW12;
 
 import com.codeborne.selenide.Configuration;
+import com.codeborne.selenide.logevents.SelenideLogger;
 import guru.qa.HW6.pages.RegistrationFormPage;
+import guru.qa.Helper.Attaches;
+import io.qameta.allure.selenide.AllureSelenide;
+import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 public class RegistrationFormTest {
@@ -33,12 +38,19 @@ public class RegistrationFormTest {
         Configuration.holdBrowserOpen = true;
         //Configuration.baseUrl = "https://demoqa.com/";
         Configuration.browserSize = "1420x1070";
-
+        Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
+        SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
     }
-
+@AfterEach
+void addAttachments(){
+        Attaches.screenshotAs("last screenshot");
+        Attaches.pageSource();
+        Attaches.browserConsoleLogs();
+}
 
 
     @Test
+    @DisplayName("Registration test")
     void fillFormTest() {
 
 
