@@ -1,0 +1,5 @@
+[2023-06-19T15:22:30.890Z] [SEVERE] https://cdn-ima.33across.com/ob.js 0:11740 "33Across Lexicon ID Mappings Provider: PID not found"
+[2023-06-19T15:22:31.116Z] [SEVERE] https://tags.crwdcntrl.net/lt/c/16589/sync.min.js 0:10302 "SYNC.JS: Aborting because TCF string was expected but not present."
+[2023-06-19T15:22:31.116Z] [SEVERE] https://tags.crwdcntrl.net/lt/c/16589/sync.min.js 0:10302 "SYNC.JS: Aborting because no consent was present on the request or stored server-side"
+[2023-06-19T15:22:31.116Z] [SEVERE] https://tags.crwdcntrl.net/lt/c/16589/sync.min.js 0:10302 "SYNC.JS: Aborting due to above errors."
+[2023-06-19T15:22:31.117Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 401:504 Uncaught TypeError: g(...).setup is not a function

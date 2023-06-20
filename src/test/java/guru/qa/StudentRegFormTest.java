@@ -15,7 +15,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 @Tag("demoqa")
 
-public class StudentRegForm {
+public class StudentRegFormTest {
     String name = "Elena";
     String lastName = "Sharapova";
     String email = "lenasyhanova@yandex.ru";
@@ -34,17 +34,19 @@ public class StudentRegForm {
         Configuration.browserSize = "1420x1070";
 
     }
+
     @AfterEach
-    void addAttachments(){
+    void addAttachments() {
         Attaches.screenshotAs("last screenshot");
         Attaches.pageSource();
         Attaches.browserConsoleLogs();
+        Attaches.addVideo();
+        closeWebDriver();
     }
 
 
-
     @Test
-    @DisplayName("registration Form Test")
+    @DisplayName("registration Form Test2.0")
     void fillFormTest() {
         //arrange
         open("https://demoqa.com/automation-practice-form");
