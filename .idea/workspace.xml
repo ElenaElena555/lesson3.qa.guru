@@ -4,101 +4,183 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="Added  code from QAGuru4">
-      <change afterPath="$PROJECT_DIR$/build/allure-results/08cd20eb-49f2-4fe4-9f41-e4063f467439-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/0ac51818-4b48-4cc1-8369-5fb638b46407-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/0b0c1c4d-e877-492f-a0b0-9c9b06221157-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/12b6a582-90e6-44cd-bbee-d82a3cf2c690-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/1638b0fc-d2c8-43e2-9a78-f9b319efdf86-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/1902e4c4-e9b2-4e06-9196-4f457dfae641-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/1d1754eb-3546-4e9b-9969-d2048c88166a-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/1f7c39d3-ca61-4104-9bf1-b79362b62eec-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/2002d63c-a064-4994-acf1-babfc4d35142-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/225db33e-f724-4c93-8183-14f58e86a2a7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/298018de-2e44-4189-a2f6-1d2cbe899f02-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/2abd4ad7-18da-43d3-b248-21d88ed11e9a-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/2b9aa9f3-3e96-4178-a266-4f137214f34e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/2c04897b-98db-4d9d-8ad3-e7eb1f49e1d8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/2e44e27a-13c6-4ab1-a123-44977ada3b6a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/31e9b63b-b313-4382-96ac-914fabb4e339-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/40d6aedb-0391-4cf4-a895-6d7e108f4a9b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/447a7a2c-52dd-4e9a-aec7-7b486121cd25-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/494ef29d-393a-41ac-a13c-6f3082a3a4a5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/4ee0de64-ebaa-42db-8f15-ba7f893c9675-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/4ff64b58-8254-488a-9b59-b70c3a1cfb30-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/51cb4ed5-bf6d-42ca-a8b1-6c4f7b6996e1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/52fcc4fe-90bb-44bd-9560-c0873b9ad097-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/577e2c45-eea4-445f-84e1-5cc4574cf6da-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/581884eb-3248-4bce-94e3-fcdd72249081-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/5f32ab7e-57f6-4447-be54-1be6c950499a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/6eab9628-5990-4998-8b67-dee47b3e2f7c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/71074457-bd92-4927-be1c-623142c6039c-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/75607be2-717d-49c1-999c-0f0df292f0c5-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/79381b23-dc40-42ab-bdce-5ba40be01a6e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/7e1bacda-e780-476a-8686-05fbd19b5e84-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/81fbd5be-c862-4526-8de6-2b29c6ac26b3-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/83949cd7-b487-4310-84ef-e5cd98ff8ac3-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/839513ad-47f7-418c-a05b-6960237d4d6c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/84de86d5-216c-4fb2-9d44-e292b6fc4839-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/87f32141-a065-43a4-8935-fe197c34e95d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/88136029-af9b-410e-b5cb-35dc3ca31f61-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/90a55e3e-11ff-4c4f-8916-f2b724cb8077-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/923380da-3be8-4a4e-85c8-e6bb9bc66a03-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/94bf30aa-fb22-4f2f-8d2a-c889314e4eed-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/9d037636-2c31-41cb-9594-e35786132b36-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/9f04eccb-03a2-42b0-bea0-64b3c78e9552-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/a48fbef3-10ce-46d0-ae7d-4183d4d3bb12-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/a4e07d35-9dcf-41bc-8363-342bcc57668f-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/a6471987-4980-4209-bf54-b17729d7b7a5-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/aaf6d564-b767-4535-a02a-867457f7c55e-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/abc3de8e-634d-4a97-a47c-4dec92b8665b-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/b101d4a2-a2d6-45b8-9b50-1c74b504a722-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/b4ac5014-e8ef-42d9-8b99-37fc0932592c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/b6f97602-1c8c-466d-b604-8faaa5248f92-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/b7754300-3858-42d5-a37a-8ebd0e04a8f3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/b9149f55-da1d-45ac-90d0-e8857fd4e2a4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/b9f1b80d-b448-438a-993a-718f811f9435-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/bde64011-97cb-40f6-a9dd-2f23e4d50bda-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/c16279bb-2361-4807-8666-3e3870387472-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/c4891228-203d-4418-b6d0-5247cad0169e-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/cfffddc1-39fc-4ac8-973f-58f70eb4d559-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/d4c0de67-1597-4c67-9cb8-686e122189f6-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/e1ff62b0-cffd-4603-9258-ec34ae3de967-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/e3bde4d4-b149-424c-991b-3ead84435656-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/e3d436b6-3b0c-4c9a-8bf9-871af3561acf-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/ee7d8577-4d01-4908-9c6e-c1e4021efb5c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/ee869d38-77e1-48f6-8aac-1133dd818068-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/f046b124-1a3d-4732-8420-25876bb40ad6-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/f1693e33-c7cd-4e10-8846-e0035ac9459f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/f31375f7-f1f5-4c26-b29c-39d38257776c-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/f3f5ced9-99a9-486b-a635-aedffec9eb54-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/f4c43342-698b-4708-aab3-3752393c5338-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/f584e409-6a83-46e4-bbb5-a51bfbee6a50-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/fd0f0e02-ac65-488b-9831-cd64e9f37e2e-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/allure-results/fe6e04ce-b93d-4770-9305-8f9dfd194ff6-attachment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW12/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW12/RegistrationFormTestsFromGuru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW12/TestBase.java" afterDir="false" />
+    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="Added changes to StudenRegFormTest">
+      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW13/properties/SystemProductTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/00ae5e0a-ff97-4c0e-a812-7eb796602473-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/014b99a7-de4c-46f3-907f-60067634b7e4-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/016f4fe4-e0bf-4a44-8c77-8e3016cf826d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/05cd5970-f2b0-4f9f-ba20-268c9bf9c8f0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/08cd20eb-49f2-4fe4-9f41-e4063f467439-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/0ac51818-4b48-4cc1-8369-5fb638b46407-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/0b0c1c4d-e877-492f-a0b0-9c9b06221157-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/0db219d7-3776-4d2a-9bc2-ce2958865bcc-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/0f4ae996-bb33-4d07-8a5e-c94130eea67c-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/1094ee81-cf7e-4e41-8472-814ea147187f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/124cd633-d40f-4dda-9569-8dd90d0ad664-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/12b6a582-90e6-44cd-bbee-d82a3cf2c690-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/14832137-bc31-4bdf-82b4-852d65e835ed-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/1638b0fc-d2c8-43e2-9a78-f9b319efdf86-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/16983d73-e64c-4e24-afed-61b9503b626a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/1902e4c4-e9b2-4e06-9196-4f457dfae641-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/1d1754eb-3546-4e9b-9969-d2048c88166a-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/1f7c39d3-ca61-4104-9bf1-b79362b62eec-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2002d63c-a064-4994-acf1-babfc4d35142-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/225db33e-f724-4c93-8183-14f58e86a2a7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/23763425-2c94-4e4d-8f72-954628c3d0b1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/26157331-fe90-4603-9bc8-502d90cf8d40-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2663c1f5-de39-49c2-8f3f-ef094224cf6f-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2823d91c-47de-4f6c-9703-c794738ac399-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/293c0349-3186-4c2b-b996-2c3ebdee5a82-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/298018de-2e44-4189-a2f6-1d2cbe899f02-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2abd4ad7-18da-43d3-b248-21d88ed11e9a-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2b9aa9f3-3e96-4178-a266-4f137214f34e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2c04897b-98db-4d9d-8ad3-e7eb1f49e1d8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2dc41ec8-cd80-4dfc-a10d-b96db68324a7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2e44e27a-13c6-4ab1-a123-44977ada3b6a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2f165398-9e31-4a3f-ae3d-57e2bc3c5c98-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2f85623e-cde0-4645-b2bc-c73dc835648f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/31e9b63b-b313-4382-96ac-914fabb4e339-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/3c562173-dbf3-485a-8e6f-62cd168fd850-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/40d6aedb-0391-4cf4-a895-6d7e108f4a9b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/418d8486-4ca7-430a-9fa3-ec2306564366-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/41ee76d1-e235-46b8-a888-8f4f16bff50a-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/447a7a2c-52dd-4e9a-aec7-7b486121cd25-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/454de80e-491e-471a-a5ef-b5ea7dcb244f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/45ccbf96-b556-47a5-ad5d-60afcf632654-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/47592780-d2bb-4d72-a3b9-d588a0a0e59f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/48bbb43f-dd0f-4800-9c96-fe5ca66ffeb0-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/494ef29d-393a-41ac-a13c-6f3082a3a4a5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/4daf530d-e30d-4f25-a7cd-f893af14f5c0-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/4ee0de64-ebaa-42db-8f15-ba7f893c9675-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/4fa328e2-e166-4d9a-884f-2cca16cdae65-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/4fcbf196-e3d8-4a62-9596-f4ebe4ebdefe-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/4ff64b58-8254-488a-9b59-b70c3a1cfb30-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/50975fce-fcaf-4592-a1ae-21a207213d85-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/51cb4ed5-bf6d-42ca-a8b1-6c4f7b6996e1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/52fcc4fe-90bb-44bd-9560-c0873b9ad097-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/57071765-3198-4623-85df-3a597b943948-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/577e2c45-eea4-445f-84e1-5cc4574cf6da-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/581884eb-3248-4bce-94e3-fcdd72249081-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/5a493196-e14a-4afc-aa5c-0d32aa4daf96-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/5c2f9a46-ac18-4737-8fae-23b7d61fb0b0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/5cafb276-79e7-4f00-a634-8531d9df313a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/5e3ef909-4980-49d7-af1c-204c5a4cb0f9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/5f32ab7e-57f6-4447-be54-1be6c950499a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/6105c8b2-dd75-4c27-9825-54fbdad0bf91-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/6124ed81-45d0-423b-8ee6-c99c252bf599-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/62e53f8f-454f-42a9-87d8-134eb6833ae2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/62f91b21-d04d-432a-9397-defe8d8ff109-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/669ed493-6b51-483d-9c7d-40dc1a39f97d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/6a2f1beb-db42-409c-80ef-6755d6412905-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/6bad592e-647e-461a-a0c1-970cedfa43f6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/6e6a93aa-1007-4ab0-98db-e327ac2bea9f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/6eab9628-5990-4998-8b67-dee47b3e2f7c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/6f43aa50-7a45-4082-aad9-b409b24f06d3-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/71074457-bd92-4927-be1c-623142c6039c-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/75607be2-717d-49c1-999c-0f0df292f0c5-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/7831bafd-ab3f-4edd-94c1-a723209d9c15-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/79381b23-dc40-42ab-bdce-5ba40be01a6e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/7e1bacda-e780-476a-8686-05fbd19b5e84-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/7f0a59dc-5c61-440f-abdc-dbf3a7d4a032-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/81fbd5be-c862-4526-8de6-2b29c6ac26b3-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/83949cd7-b487-4310-84ef-e5cd98ff8ac3-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/839513ad-47f7-418c-a05b-6960237d4d6c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/84de86d5-216c-4fb2-9d44-e292b6fc4839-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/856cc7e3-c9aa-444e-be2a-08c2b410e28e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/87f32141-a065-43a4-8935-fe197c34e95d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/88136029-af9b-410e-b5cb-35dc3ca31f61-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/8e6b0fcf-5226-4a9e-bcf6-a8677e50b0bf-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/90a55e3e-11ff-4c4f-8916-f2b724cb8077-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/90a81af0-f1db-4c08-aefe-a100cc42b52d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/91235a37-1e1e-48b7-bada-1f22bcc492a0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/917ef2a0-6899-422d-aac6-9f4f636799bb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/923380da-3be8-4a4e-85c8-e6bb9bc66a03-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/93c55d0b-7fb4-4efd-82b2-27ebfcf5c23f-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/94bf30aa-fb22-4f2f-8d2a-c889314e4eed-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/96528756-a4ef-4c84-87b0-bbb1bbe1736a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/9b815f2e-9572-451c-96fb-943efd9bb42c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/9d037636-2c31-41cb-9594-e35786132b36-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/9d3176f1-c955-4bc8-895a-3e59c9b1830d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/9f04eccb-03a2-42b0-bea0-64b3c78e9552-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/a2ce6cd8-8d55-4450-8192-6ac98c188d69-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/a48fbef3-10ce-46d0-ae7d-4183d4d3bb12-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/a4e07d35-9dcf-41bc-8363-342bcc57668f-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/a6471987-4980-4209-bf54-b17729d7b7a5-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/a876e2a5-84f0-498a-b226-f056af61eb36-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/aaf6d564-b767-4535-a02a-867457f7c55e-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/abc3de8e-634d-4a97-a47c-4dec92b8665b-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/abd07a99-55f5-4caf-a05b-190466fc8002-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/af4811ae-1e22-4acf-bb04-52341ae379da-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/af6cb1b8-9d08-485c-a7ea-8e8b25fe1ddf-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/b101d4a2-a2d6-45b8-9b50-1c74b504a722-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/b22b7b17-7e54-4366-967e-637502a0e706-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/b2a49e19-79e7-484a-bce3-d3432bcee226-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/b4ac5014-e8ef-42d9-8b99-37fc0932592c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/b6f97602-1c8c-466d-b604-8faaa5248f92-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/b7754300-3858-42d5-a37a-8ebd0e04a8f3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/b9149f55-da1d-45ac-90d0-e8857fd4e2a4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/b9f1b80d-b448-438a-993a-718f811f9435-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/bde64011-97cb-40f6-a9dd-2f23e4d50bda-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/bfe2711d-73b4-4c7a-959f-ec3e45dc0cd8-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/c11c3d1c-f4b5-4f46-a126-104f23d4edb1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/c16279bb-2361-4807-8666-3e3870387472-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/c28e8613-8b07-4608-a3d1-d70a0e44d609-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/c2ef6bc3-7da0-4499-a97d-998f44198d62-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/c3982602-fcb5-4693-ac6a-87020b249c49-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/c4891228-203d-4418-b6d0-5247cad0169e-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/c91fed56-257a-4912-a88d-d91456107c60-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/c990ed82-119e-4d3e-962c-05af2c374b62-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/caa66502-c07e-4833-8045-68e2c1e06c03-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/caada6b2-8732-4fd5-b169-f3429ff31b5f-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/cfffddc1-39fc-4ac8-973f-58f70eb4d559-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/d4411b13-c282-4761-a84f-a0f2a00da379-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/d46b50b1-a188-47d0-b50c-0ab40517e8f0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/d4c0de67-1597-4c67-9cb8-686e122189f6-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/d5983bfc-4cd0-4d81-aff0-4db0cd432658-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/debc42c4-c6d5-4fdc-a1af-e3133c8131dc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/e16ce2ba-97e6-4e4c-8ad9-77ce07c55180-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/e1ff62b0-cffd-4603-9258-ec34ae3de967-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/e3bde4d4-b149-424c-991b-3ead84435656-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/e3d436b6-3b0c-4c9a-8bf9-871af3561acf-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/eab85f83-6a44-4101-a9b7-2616f9e02e6d-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/ee7d8577-4d01-4908-9c6e-c1e4021efb5c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/ee869d38-77e1-48f6-8aac-1133dd818068-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/allure-results/executor.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/allure-results/executor.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/classes/guru.qa.StudentRegForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/packages/guru.qa.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/demoqa_tests/TEST-guru.qa.HW7.LambdaGitHubTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/demoqa_tests/TEST-guru.qa.StudentRegistrationFormwirhPageObject.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/f046b124-1a3d-4732-8420-25876bb40ad6-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/f1693e33-c7cd-4e10-8846-e0035ac9459f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/f31375f7-f1f5-4c26-b29c-39d38257776c-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/f3f5ced9-99a9-486b-a635-aedffec9eb54-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/f4c43342-698b-4708-aab3-3752393c5338-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/f584e409-6a83-46e4-bbb5-a51bfbee6a50-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/fd0f0e02-ac65-488b-9831-cd64e9f37e2e-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/fe6e04ce-b93d-4770-9305-8f9dfd194ff6-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure/commandline/bin/allure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure/commandline/bin/allure.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure/commandline/config/allure-cucumber.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure/commandline/config/allure-junit.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure/commandline/config/allure.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure/commandline/lib/config/jetty-logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure/commandline/lib/config/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegFormTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/StudentRegFormTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.StudentRegForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.StudentRegForm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/StudentRegFormTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,55 +281,7 @@
       <recent name="guru.qa" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.StudentRegFormTest">
-    <configuration name="RegistrationFormTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":demoqa_tests" />
-            <option value="--tests" />
-            <option value="&quot;guru.qa.HW12.RegistrationFormTests&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
-    <configuration name="RegistrationFormTestsFromGuru.fillFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":demoqa_tests" />
-            <option value="--tests" />
-            <option value="&quot;guru.qa.HW12.RegistrationFormTestsFromGuru.fillFormTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.SystemProductTest.someTest5">
     <configuration name="StudentRegFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -272,7 +306,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="StudentRegFormTest.fillFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SystemProductTest.someTest2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -283,9 +317,9 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value=":demoqa_tests" />
+            <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.StudentRegFormTest.fillFormTest&quot;" />
+            <option value="&quot;guru.qa.HW13.properties.SystemProductTest.someTest2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -296,35 +330,85 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="lesson3.qa.guru [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SystemProductTest.someTest3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="allureServe" />
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.HW13.properties.SystemProductTest.someTest3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>false</ForceTestExec>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SystemProductTest.someTest4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.HW13.properties.SystemProductTest.someTest4&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SystemProductTest.someTest5" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.HW13.properties.SystemProductTest.someTest5&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SystemProductTest.someTest5" />
+        <item itemvalue="Gradle.SystemProductTest.someTest4" />
+        <item itemvalue="Gradle.SystemProductTest.someTest2" />
+        <item itemvalue="Gradle.SystemProductTest.someTest3" />
         <item itemvalue="Gradle.StudentRegFormTest" />
-        <item itemvalue="Gradle.StudentRegFormTest.fillFormTest" />
-        <item itemvalue="Gradle.RegistrationFormTestsFromGuru.fillFormTest" />
-        <item itemvalue="Gradle.lesson3.qa.guru [allureServe]" />
-        <item itemvalue="Gradle.RegistrationFormTests" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +582,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687187012465</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added  code from QAGuru5">
+      <created>1687250336998</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1687250336998</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added changes to StudenRegFormTest">
+      <created>1687250670649</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1687250670649</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -513,8 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added build.gradle file" />
-    <MESSAGE value="added build.gradle file and first test" />
     <MESSAGE value="added StudentRegistrationForm" />
     <MESSAGE value="added StudentRegistrationFormChanges" />
     <MESSAGE value="added StudentRegistrationFormWithPageObject" />
@@ -538,6 +634,8 @@
     <MESSAGE value="Added  code from QAGuru2" />
     <MESSAGE value="Added  code from QAGuru3" />
     <MESSAGE value="Added  code from QAGuru4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added  code from QAGuru4" />
+    <MESSAGE value="Added  code from QAGuru5" />
+    <MESSAGE value="Added changes to StudenRegFormTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added changes to StudenRegFormTest" />
   </component>
 </project>
