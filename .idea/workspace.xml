@@ -199,7 +199,7 @@
       <recent name="guru.qa" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.StudentRegFormTest.fillFormTest">
+  <component name="RunManager" selected="Gradle.StudentRegFormTest">
     <configuration name="RegistrationFormTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -248,7 +248,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="StudentRegForm" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="StudentRegFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -261,7 +261,7 @@
           <list>
             <option value=":demoqa_tests" />
             <option value="--tests" />
-            <option value="&quot;guru.qa.StudentRegForm&quot;" />
+            <option value="&quot;guru.qa.StudentRegFormTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -320,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.StudentRegFormTest" />
         <item itemvalue="Gradle.StudentRegFormTest.fillFormTest" />
         <item itemvalue="Gradle.RegistrationFormTestsFromGuru.fillFormTest" />
         <item itemvalue="Gradle.lesson3.qa.guru [allureServe]" />
         <item itemvalue="Gradle.RegistrationFormTests" />
-        <item itemvalue="Gradle.StudentRegForm" />
       </list>
     </recent_temporary>
   </component>

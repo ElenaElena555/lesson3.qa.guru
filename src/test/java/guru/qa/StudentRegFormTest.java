@@ -2,6 +2,7 @@ package guru.qa;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.logevents.SelenideLogger;
+import guru.qa.HW12.TestBase;
 import guru.qa.Helper.Attaches;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.*;
@@ -15,7 +16,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 @Tag("demoqa")
 
-public class StudentRegFormTest {
+public class StudentRegFormTest extends TestBase {
     String name = "Elena";
     String lastName = "Sharapova";
     String email = "lenasyhanova@yandex.ru";
@@ -35,30 +36,15 @@ public class StudentRegFormTest {
 
     }
 
-    @AfterEach
-    void addAttachments() {
-        Attaches.screenshotAs("last screenshot");
-        Attaches.pageSource();
-        Attaches.browserConsoleLogs();
-        Attaches.addVideo();
-        closeWebDriver();
-    }
-
-
     @Test
     @DisplayName("registration Form Test2.0")
     void fillFormTest() {
         //arrange
         open("https://demoqa.com/automation-practice-form");
         zoom(0.75);
-        Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
-        SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
         executeJavaScript("$('footer').remove()");
         executeJavaScript("$('#fixedban').remove()");
-        DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setCapability("enableVNC", true);
-        capabilities.setCapability("enableVideo", true);
-        Configuration.browserCapabilities = capabilities;
+
         //act
         $(".practice-form-wrapper").shouldHave(text("Student Registration Form"));
         $("[id=firstName]").setValue(name);
