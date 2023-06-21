@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guru.qa.HW13.properties.OwnerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-21T11:21:12" hostname="HELEN" time="0.17">
+  <properties/>
+  <testcase name="loginTest()" classname="guru.qa.HW13.properties.OwnerTest" time="0.17"/>
+  <system-out><![CDATA[Login:null
+Password:null
+I logged in as nullwith passwordnull
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

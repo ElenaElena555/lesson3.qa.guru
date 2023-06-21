@@ -4,78 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="Added system properties HW11">
-      <change afterPath="$PROJECT_DIR$/src/test/java/config/CredentialsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW13/properties/OwnerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/0047a33d-a1e1-42b3-b7a7-1f4bcff880b7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/02d46b4f-a5d7-4b20-9bf6-f0bab7d0b52f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/052b0926-f22f-4648-ac28-ba39b8c9055d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/0b62ee3f-2363-4312-a5ae-38e69b88f70e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/1d41af87-84f6-4f0e-aac0-94fa41c2e5a6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/1e5fa465-acad-4d50-a529-a01377a57573-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/286c7e75-6d96-431c-9546-597d5979c0fb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/2a215a82-1694-48cc-8991-607aa82727ed-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/2c5ccca6-59c1-4431-83ac-0ad7820f15d3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/3013fa26-09fe-4cad-9c26-ee7252b6b3bd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/31a38041-9ddd-4490-8f01-ecb8480420b5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/3340b3bb-74fc-4f22-a3c1-2e5ac9710625-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/3bd39754-655f-486a-bc24-eaea30c877b0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/401beebd-87d3-4bb8-ad20-d6950c763e45-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/495f4e6a-c668-4fc8-98a7-493e91038ecb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/4ea77e78-06d1-46e3-b1dc-582cf9c52e90-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/4ebcf0b5-846f-45d6-a4e6-d0d7cce63a59-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/67aa872e-18a0-4696-8357-822745f23f9b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/69fb0b4c-1f4b-4177-bd86-4a4b5e14740d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/7098cf82-c551-481d-ae5d-e11c735f4edf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/7c695cc4-17a0-44c4-a84d-13c1f97e2bb4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/7f41f7d2-3ee5-4d42-807f-db6170f051f1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/833f1b33-d110-42d2-bd22-192a1b8ed3ce-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/8bf586e4-cb58-4555-95ab-bfef88c0297e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/8c4eac31-cd76-4272-8634-b7bc927d70f5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/afc82566-2ad0-4bab-92f6-1252b2a2cfcd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/b6981dbd-32f4-4a68-a657-1a1279d03557-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/ba66a894-d7e6-400a-ae73-ee5b11aac509-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/c51cdb16-d0d9-4e93-99ca-487da3896738-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/c7527df3-7bb6-4a93-bf63-cedd3f5cebcd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/cd0008ba-c33a-4fe2-ad6d-41abe744fa2f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/da97181f-2045-4059-8216-36eb158deef8-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/e25673f8-49ed-43f9-a73a-e26527ef0d02-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/e73c5734-3c0a-4312-92ee-9b8c7af6d74a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/executor.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/allure-results/executor.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/f0054ec0-1cd6-4fa7-b431-c483f239930b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/f64806ef-916f-4214-b8b1-9c1631093d23-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/fc4f4bdf-8be6-496d-aa67-8f7631cd30e7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/fe37c0ac-ad5d-4a7c-bb06-627d84a73461-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW12/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW12/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW13/properties/SystemProductTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW13/properties/SystemProductTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.HW13.properties.SystemProductTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.HW13.properties.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.HW13.properties.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.HW13.properties.SystemProductTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/HW12/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/HW12/TestBase.java" afterDir="false" />
+    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="Added owner example">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/checksums/sha1-checksums.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -506,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687265062562</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added owner example">
+      <created>1687346547044</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1687346547044</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -521,7 +460,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added StudentRegistrationFormWithPageObject" />
     <MESSAGE value="added HW6" />
     <MESSAGE value="added HW7" />
     <MESSAGE value="added HW7-1" />
@@ -546,6 +484,7 @@
     <MESSAGE value="Added changes to StudenRegFormTest" />
     <MESSAGE value="Added system properties class" />
     <MESSAGE value="Added system properties HW11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added system properties HW11" />
+    <MESSAGE value="Added owner example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added owner example" />
   </component>
 </project>
