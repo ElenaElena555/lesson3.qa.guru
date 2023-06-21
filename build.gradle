@@ -15,6 +15,7 @@ dependencies {
             "com.github.javafaker:javafaker:1.0.2",
             "org.slf4j:slf4j-simple:1.7.36",
             'io.qameta.allure:allure-selenide:2.17.3',
+            "org.aeonbits.owner:owner:1.0.12",
             'org.assertj:assertj-core:3.22.0',
             'org.hamcrest:hamcrest-all:1.3',
             'com.codeborne:xls-test:1.4.0',
@@ -63,6 +64,12 @@ task demoqa_tests(type: Test) {
     task systemProperties(type: Test) {
         useJUnitPlatform {
             includeTags "systemProperties"
+//        excludeTags "simple"
+        }
+    }
+    task owner(type: Test) {
+        useJUnitPlatform {
+            includeTags "owner"
 //        excludeTags "simple"
         }
     }
