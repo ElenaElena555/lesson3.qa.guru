@@ -4,34 +4,97 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="Added HW13">
-      <change afterPath="$PROJECT_DIR$/allure-notifications-4.2.1.jar" afterDir="false" />
+    <list default="true" id="e273b053-d92e-48c7-9e1b-975014cb5e3f" name="Changes" comment="Added HW14 second part">
+      <change afterPath="$PROJECT_DIR$/notifications/commands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notifications/telegram.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW12/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/guru/qa/HW12/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/attachments/1bb0137e75f47489.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/attachments/503edf5e1ef8b901.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/attachments/d72b68abea62f229.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/test-cases/6febc28c578d00fe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/test-cases/9c6c7cccaf2ca0b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/test-cases/b223bb024da57fce.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/test-cases/dcc0457808b5176.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/allure-report/allureReport/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1687185581139.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1687185581139.0.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/demoqa_tests/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/guru.qa.HW13.properties.OwnerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/owner/classes/guru.qa.HW13.properties.OwnerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/owner/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/owner/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/owner/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/owner/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/owner/packages/guru.qa.HW13.properties.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/systemProperties/classes/guru.qa.HW13.properties.SystemProductTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/systemProperties/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/systemProperties/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/systemProperties/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/systemProperties/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/systemProperties/packages/guru.qa.HW13.properties.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.HW13.properties.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/guru.qa.HW13.properties.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/demoqa_tests/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-guru.qa.HW13.properties.OwnerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/owner/TEST-guru.qa.HW13.properties.OwnerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/owner/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/owner/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/owner/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/systemProperties/TEST-guru.qa.HW13.properties.SystemProductTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/systemProperties/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/systemProperties/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/systemProperties/binary/results.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/.cache/expanded/expanded.lock" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/.cache/expanded/expanded.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +190,7 @@
       <recent name="C:\Users\ElenaSharapova\IdeaProjects\lesson3.qa.guru" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ElenaSharapova\IdeaProjects\lesson3.qa.guru\build" />
       <recent name="C:\Users\ElenaSharapova\IdeaProjects\lesson3.qa.guru\src\test\resources" />
       <recent name="C:\Users\ElenaSharapova\IdeaProjects\lesson3.qa.guru\src\test\java\resources" />
     </key>
@@ -137,7 +201,31 @@
       <recent name="guru.qa" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.lesson3.qa.guru [allureServe]">
+  <component name="RunManager" selected="Gradle.SystemPropertiesTest">
+    <configuration name="RegistrationFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":demoqa_tests" />
+            <option value="--tests" />
+            <option value="&quot;guru.qa.HW12.RegistrationFormTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <configuration name="SystemProductTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -149,7 +237,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value=":systemProperties" />
+            <option value=":demoqa_tests" />
             <option value="--tests" />
             <option value="&quot;guru.qa.HW13.properties.SystemProductTest&quot;" />
           </list>
@@ -210,28 +298,6 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="lesson3.qa.guru [allureReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="allureReport" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>false</ForceTestExec>
-      <method v="2" />
-    </configuration>
     <configuration name="lesson3.qa.guru [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -256,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.lesson3.qa.guru [allureServe]" />
-        <item itemvalue="Gradle.lesson3.qa.guru [allureReport]" />
         <item itemvalue="Gradle.SystemPropertiesTest" />
-        <item itemvalue="Gradle.SystemPropertiesTest.fillFormTest" />
+        <item itemvalue="Gradle.lesson3.qa.guru [allureServe]" />
+        <item itemvalue="Gradle.RegistrationFormTest" />
         <item itemvalue="Gradle.SystemProductTest" />
+        <item itemvalue="Gradle.SystemPropertiesTest.fillFormTest" />
       </list>
     </recent_temporary>
   </component>
@@ -497,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687349083578</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Added HW14 first part">
+      <created>1687449598322</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1687449598322</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,9 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added HW7-changes" />
-    <MESSAGE value="added HW7-changes2" />
-    <MESSAGE value="Added HW8" />
     <MESSAGE value="Added HW8-2" />
     <MESSAGE value="Added HW9" />
     <MESSAGE value="Added separate package for Jenkins" />
@@ -537,6 +607,9 @@
     <MESSAGE value="Added owner example2" />
     <MESSAGE value="Added gitignore" />
     <MESSAGE value="Added HW13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW13" />
+    <MESSAGE value="Added HW14 first part" />
+    <MESSAGE value="Added HW14 seconde part" />
+    <MESSAGE value="Added HW14 second part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW14 second part" />
   </component>
 </project>
