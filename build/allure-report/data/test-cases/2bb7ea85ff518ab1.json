@@ -1,0 +1,160 @@
+{
+  "uid" : "2bb7ea85ff518ab1",
+  "name" : "Successful fill registration test",
+  "fullName" : "guru.qa.HW13.properties.SystemPropertiesTest.fillFormTest",
+  "historyId" : "88ba40edb2d9eb5ea3f81c4823cb3f2b",
+  "time" : {
+    "start" : 1687779767022,
+    "stop" : 1687779776553,
+    "duration" : 9531
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open registration form",
+      "time" : {
+        "start" : 1687779767045,
+        "stop" : 1687779774110,
+        "duration" : 7065
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Fill registration form",
+      "time" : {
+        "start" : 1687779774110,
+        "stop" : 1687779775842,
+        "duration" : 1732
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Verify form data",
+      "time" : {
+        "start" : 1687779775842,
+        "stop" : 1687779776024,
+        "duration" : 182
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "addAttachments",
+    "time" : {
+      "start" : 1687779776028,
+      "stop" : 1687779776545,
+      "duration" : 517
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9d7886a550d1e2fa",
+      "name" : "Last screenshot",
+      "source" : "9d7886a550d1e2fa.png",
+      "type" : "image/png",
+      "size" : 226341
+    }, {
+      "uid" : "f14c88b897d62d1e",
+      "name" : "Page source",
+      "source" : "f14c88b897d62d1e.html",
+      "type" : "text/plain",
+      "size" : 50628
+    }, {
+      "uid" : "ed58579e28e57002",
+      "name" : "Browser console logs",
+      "source" : "ed58579e28e57002.txt",
+      "type" : "text/plain",
+      "size" : 265
+    }, {
+      "uid" : "d21416492dd275f8",
+      "name" : "Video",
+      "source" : "d21416492dd275f8.html",
+      "type" : "text/html",
+      "size" : 193
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "demoqa"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:guru.qa.HW13.properties.SystemPropertiesTest]/[method:fillFormTest()]"
+  }, {
+    "name" : "host",
+    "value" : "Helen"
+  }, {
+    "name" : "thread",
+    "value" : "4756@Helen.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.qa.HW13.properties.SystemPropertiesTest"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.qa.HW13.properties.SystemPropertiesTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillFormTest"
+  }, {
+    "name" : "suite",
+    "value" : "guru.qa.HW13.properties.SystemPropertiesTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "demoqa" ]
+  },
+  "source" : "2bb7ea85ff518ab1.json",
+  "parameterValues" : [ ]
+}

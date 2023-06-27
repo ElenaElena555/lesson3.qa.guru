@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "guru.qa.HW13.properties.SystemPropertiesTest",
+    "children" : [ {
+      "name" : "fillFormTest",
+      "uid" : "ac23974e1bdb0dff",
+      "parentUid" : "c1539b6f4e4d15c245013ddab1a11b62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687780319396,
+        "stop" : 1687780327273,
+        "duration" : 7877
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "guru.qa.HW13.properties.SystemPropertiesTest"
+  } ]
+}

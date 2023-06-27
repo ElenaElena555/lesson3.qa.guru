@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jun 26 13:51:59 CEST 2023","Mon Jun 26 13:52:07 CEST 2023","7877","","guru.qa.HW13.properties.SystemPropertiesTest","","guru.qa.HW13.properties.SystemPropertiesTest","fillFormTest","Successful fill registration test",""

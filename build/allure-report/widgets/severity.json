@@ -1,0 +1,11 @@
+[ {
+  "uid" : "ac23974e1bdb0dff",
+  "name" : "Successful fill registration test",
+  "time" : {
+    "start" : 1687780319396,
+    "stop" : 1687780327273,
+    "duration" : 7877
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
