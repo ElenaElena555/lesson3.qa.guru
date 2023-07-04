@@ -1,7 +1,7 @@
 {
   "base": {
     "project": "${JOB_BASE_NAME}",
-    "environment": "PROD env",
+    "environment": "Stage env",
     "comment": "Smoke test",
     "reportLink": "${BUILD_URL}",
     "language": "en",
