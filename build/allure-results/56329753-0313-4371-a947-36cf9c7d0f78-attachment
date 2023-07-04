@@ -1,0 +1,3 @@
+[2023-07-04T08:53:01.913Z] [SEVERE] chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+[2023-07-04T08:53:04.011Z] [SEVERE] https://hh.ru/vacancy/55354866?query=QA%20automation%20engineer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog - Access to XMLHttpRequest at 'https://yandex.ru/clck/click' from origin 'https://hh.ru' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2023-07-04T08:53:04.012Z] [SEVERE] https://yandex.ru/clck/click - Failed to load resource: net::ERR_FAILED
