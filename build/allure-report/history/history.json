@@ -1,0 +1,100 @@
+{
+  "ab0691b98b9d0b1e41a43f5ee7b30c2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82ea3c5b51d55963",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-qa=\"otp-code-form\"]}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688461290850.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688461290850.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-qa=\"otp-code-form\"]\"}",
+      "time" : {
+        "start" : 1688461279620,
+        "stop" : 1688461291437,
+        "duration" : 11817
+      }
+    } ]
+  },
+  "2c7a88f1ab7c446f7c49c28ba3875741" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edad42106ea78701",
+      "status" : "passed",
+      "time" : {
+        "start" : 1688461265061,
+        "stop" : 1688461272279,
+        "duration" : 7218
+      }
+    } ]
+  },
+  "4d307b5b3cec31828c34f1820b84db51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "829f6ca5621c9ca5",
+      "status" : "skipped",
+      "statusDetails" : "void guru.qa.HW15.ApplyJobTest.checkErrorDisplayedWhenInvalidEmailEntered(java.lang.String) is @Disabled",
+      "time" : {
+        "start" : 1688461272472,
+        "stop" : 1688461272472,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e030070412e95a9ea76cf6a3981f68f4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2fafec1484531bb5",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-qa=\"otp-code-form\"]}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688461309717.1.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688461309717.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-qa=\"otp-code-form\"]\"}",
+      "time" : {
+        "start" : 1688461291455,
+        "stop" : 1688461310282,
+        "duration" : 18827
+      }
+    } ]
+  },
+  "9e36c8c401de6e689d36f51fe2c5dc51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f90a743ba645aff5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1688461272490,
+        "stop" : 1688461279594,
+        "duration" : 7104
+      }
+    } ]
+  }
+}

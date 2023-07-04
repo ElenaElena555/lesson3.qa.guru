@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Jul 04 11:01:19 CEST 2023","Tue Jul 04 11:01:31 CEST 2023","11817","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkValidEmailIsApplied","checkValidEmailIsApplied(String) Check that valid Email elenasharapova@@gmail.com is Applied",""
+"skipped","Tue Jul 04 11:01:12 CEST 2023","Tue Jul 04 11:01:12 CEST 2023","0","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkErrorDisplayedWhenInvalidEmailEntered","checkErrorDisplayedWhenInvalidEmailEntered(String)",""
+"passed","Tue Jul 04 11:01:12 CEST 2023","Tue Jul 04 11:01:19 CEST 2023","7104","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkAddressVacancy","Status of the vacancy",""
+"passed","Tue Jul 04 11:01:05 CEST 2023","Tue Jul 04 11:01:12 CEST 2023","7218","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkThatParametersExistsInDescription","Vacancy parameters are exists in Description",""
+"failed","Tue Jul 04 11:01:31 CEST 2023","Tue Jul 04 11:01:50 CEST 2023","18827","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkValidEmailIsApplied","checkValidEmailIsApplied(String) Check that valid Email elenasharapova3@ is Applied",""

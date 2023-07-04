@@ -1,0 +1,51 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element not found {[data-qa=\"otp-code-form\"]}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688461290850.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688461290850.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-qa=\"otp-code-form\"]\"}",
+      "children" : [ {
+        "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova@@gmail.com is Applied",
+        "uid" : "82ea3c5b51d55963",
+        "parentUid" : "350ebf0193db51133ccf8b9c76fd71f5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1688461279620,
+          "stop" : 1688461291437,
+          "duration" : 11817
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "elenasharapova@@gmail.com" ]
+      } ],
+      "uid" : "350ebf0193db51133ccf8b9c76fd71f5"
+    }, {
+      "name" : "Element not found {[data-qa=\"otp-code-form\"]}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688461309717.1.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688461309717.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-qa=\"otp-code-form\"]\"}",
+      "children" : [ {
+        "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova3@ is Applied",
+        "uid" : "2fafec1484531bb5",
+        "parentUid" : "3fdc22a9cb941458d20e2538a3c1a433",
+        "status" : "failed",
+        "time" : {
+          "start" : 1688461291455,
+          "stop" : 1688461310282,
+          "duration" : 18827
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "elenasharapova3@" ]
+      } ],
+      "uid" : "3fdc22a9cb941458d20e2538a3c1a433"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

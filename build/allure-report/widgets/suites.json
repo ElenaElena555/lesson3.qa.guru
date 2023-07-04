@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "56778a51d1604577970922f872c2e668",
+    "name" : "guru.qa.HW15.ApplyJobTest",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

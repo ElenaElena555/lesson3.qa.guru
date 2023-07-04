@@ -1,0 +1,4 @@
+[2023-07-04T09:01:36.940Z] [SEVERE] chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+[2023-07-04T09:01:41.421Z] [SEVERE] https://favicon.yandex.net/favicon/marina-living-dubai-marina.ae?size=32&stub=2 - Failed to load resource: net::ERR_NETWORK_CHANGED
+[2023-07-04T09:01:44.334Z] [SEVERE] https://hh.ru/employer_reviews/mine - Failed to load resource: the server responded with a status of 403 ()
+[2023-07-04T09:01:45.079Z] [SEVERE] chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
