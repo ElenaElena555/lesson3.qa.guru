@@ -10,7 +10,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
 
-@Tag("JobTests")
+@Tag("demoqa")
 public class ApplyJobTest extends TestBaseHW15{
     VacancyDetailsPage vacancyDetailsPage = new VacancyDetailsPage();
 
