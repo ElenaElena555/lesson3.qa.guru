@@ -73,4 +73,9 @@ task demoqa_tests(type: Test) {
 //        excludeTags "simple"
         }
     }
+    task JobTests(type: Test) {
+        useJUnitPlatform {
+            includeTags "JobTests"
+        }
+    }
 }
