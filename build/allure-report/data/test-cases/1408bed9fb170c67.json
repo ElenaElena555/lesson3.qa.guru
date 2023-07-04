@@ -1,0 +1,163 @@
+{
+  "uid" : "1408bed9fb170c67",
+  "name" : "Status of the vacancy",
+  "fullName" : "guru.qa.HW15.ApplyJobTest.checkAddressVacancy",
+  "historyId" : "9e36c8c401de6e689d36f51fe2c5dc51",
+  "time" : {
+    "start" : 1688463322541,
+    "stop" : 1688463328930,
+    "duration" : 6389
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open Vacancy Details Page",
+      "time" : {
+        "start" : 1688463322542,
+        "stop" : 1688463328465,
+        "duration" : 5923
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Check that status of the vacancy is archive",
+      "time" : {
+        "start" : 1688463328465,
+        "stop" : 1688463328487,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "address",
+        "value" : "Вакансия в архиве"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "addAttachments",
+    "time" : {
+      "start" : 1688463328487,
+      "stop" : 1688463328930,
+      "duration" : 443
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ae9d50237c28b14",
+      "name" : "Last screenshot",
+      "source" : "5ae9d50237c28b14.png",
+      "type" : "image/png",
+      "size" : 333353
+    }, {
+      "uid" : "d084ccc9c15e80bb",
+      "name" : "Page source",
+      "source" : "d084ccc9c15e80bb.html",
+      "type" : "text/plain",
+      "size" : 1594480
+    }, {
+      "uid" : "51957e1b48feaff5",
+      "name" : "Browser console logs",
+      "source" : "51957e1b48feaff5.txt",
+      "type" : "text/plain",
+      "size" : 106
+    }, {
+      "uid" : "f61ea9851f9b1cf9",
+      "name" : "Video",
+      "source" : "f61ea9851f9b1cf9.html",
+      "type" : "text/html",
+      "size" : 193
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "demoqa"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:guru.qa.HW15.ApplyJobTest]/[method:checkAddressVacancy()]"
+  }, {
+    "name" : "story",
+    "value" : "Jobs"
+  }, {
+    "name" : "owner",
+    "value" : "elenash"
+  }, {
+    "name" : "feature",
+    "value" : "Job details"
+  }, {
+    "name" : "host",
+    "value" : "Helen"
+  }, {
+    "name" : "thread",
+    "value" : "5056@Helen.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.qa.HW15.ApplyJobTest"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.qa.HW15.ApplyJobTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkAddressVacancy"
+  }, {
+    "name" : "suite",
+    "value" : "guru.qa.HW15.ApplyJobTest"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "owner" : "elenash",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "demoqa" ]
+  },
+  "source" : "1408bed9fb170c67.json",
+  "parameterValues" : [ ]
+}

@@ -1,5 +1,5 @@
 {
-  "total" : 1,
+  "total" : 2,
   "items" : [ {
     "uid" : "56778a51d1604577970922f872c2e668",
     "name" : "guru.qa.HW15.ApplyJobTest",
@@ -10,6 +10,17 @@
       "passed" : 2,
       "unknown" : 0,
       "total" : 5
+    }
+  }, {
+    "uid" : "3aa41a22751f8a907214b43640a3d26e",
+    "name" : "guru.qa.HW12.RegistrationFormTestsFromGuru",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
     }
   } ]
 }
