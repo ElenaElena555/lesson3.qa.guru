@@ -4,16 +4,16 @@
   "children" : [ {
     "name" : "Helen",
     "children" : [ {
-      "name" : "15596@Helen.Test worker(1)",
+      "name" : "9252@Helen.Test worker(1)",
       "children" : [ {
-        "name" : "Status of the vacancy",
-        "uid" : "f90a743ba645aff5",
-        "parentUid" : "c83c5078e1560393e5df4ca3030bdea9",
-        "status" : "passed",
+        "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova3@ is Applied",
+        "uid" : "675ab1ee58632a96",
+        "parentUid" : "1480bab01f843dae41b4e8e091806f0c",
+        "status" : "failed",
         "time" : {
-          "start" : 1688461272490,
-          "stop" : 1688461279594,
-          "duration" : 7104
+          "start" : 1688462135701,
+          "stop" : 1688462148945,
+          "duration" : 13244
         },
         "flaky" : false,
         "newFailed" : false,
@@ -21,15 +21,15 @@
         "newBroken" : false,
         "retriesCount" : 0,
         "retriesStatusChange" : false,
-        "parameters" : [ ]
+        "parameters" : [ "elenasharapova3@" ]
       }, {
         "name" : "checkErrorDisplayedWhenInvalidEmailEntered(String)",
-        "uid" : "829f6ca5621c9ca5",
-        "parentUid" : "c83c5078e1560393e5df4ca3030bdea9",
+        "uid" : "7c451653cdb9fbd3",
+        "parentUid" : "1480bab01f843dae41b4e8e091806f0c",
         "status" : "skipped",
         "time" : {
-          "start" : 1688461272472,
-          "stop" : 1688461272472,
+          "start" : 1688462118037,
+          "stop" : 1688462118037,
           "duration" : 0
         },
         "flaky" : false,
@@ -40,14 +40,31 @@
         "retriesStatusChange" : false,
         "parameters" : [ ]
       }, {
+        "name" : "Status of the vacancy",
+        "uid" : "c1356f7aad58a193",
+        "parentUid" : "1480bab01f843dae41b4e8e091806f0c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1688462118053,
+          "stop" : 1688462123777,
+          "duration" : 5724
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
         "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova@@gmail.com is Applied",
-        "uid" : "82ea3c5b51d55963",
-        "parentUid" : "c83c5078e1560393e5df4ca3030bdea9",
+        "uid" : "ac83e2418a603f69",
+        "parentUid" : "1480bab01f843dae41b4e8e091806f0c",
         "status" : "failed",
         "time" : {
-          "start" : 1688461279620,
-          "stop" : 1688461291437,
-          "duration" : 11817
+          "start" : 1688462123825,
+          "stop" : 1688462135677,
+          "duration" : 11852
         },
         "flaky" : false,
         "newFailed" : false,
@@ -57,31 +74,14 @@
         "retriesStatusChange" : false,
         "parameters" : [ "elenasharapova@@gmail.com" ]
       }, {
-        "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova3@ is Applied",
-        "uid" : "2fafec1484531bb5",
-        "parentUid" : "c83c5078e1560393e5df4ca3030bdea9",
-        "status" : "failed",
-        "time" : {
-          "start" : 1688461291455,
-          "stop" : 1688461310282,
-          "duration" : 18827
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "elenasharapova3@" ]
-      }, {
         "name" : "Vacancy parameters are exists in Description",
-        "uid" : "edad42106ea78701",
-        "parentUid" : "c83c5078e1560393e5df4ca3030bdea9",
+        "uid" : "2b9a71fe43869ca5",
+        "parentUid" : "1480bab01f843dae41b4e8e091806f0c",
         "status" : "passed",
         "time" : {
-          "start" : 1688461265061,
-          "stop" : 1688461272279,
-          "duration" : 7218
+          "start" : 1688462108979,
+          "stop" : 1688462117875,
+          "duration" : 8896
         },
         "flaky" : false,
         "newFailed" : false,
@@ -91,7 +91,7 @@
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "c83c5078e1560393e5df4ca3030bdea9"
+      "uid" : "1480bab01f843dae41b4e8e091806f0c"
     } ],
     "uid" : "073e66a73e7bd2a5fe043072c9eaa781"
   } ]

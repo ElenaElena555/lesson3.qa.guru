@@ -1,6 +1,6 @@
 package guru.qa.HW15;
 
-import com.codeborne.selenide.Selenide;
+
 import io.qameta.allure.*;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
@@ -9,8 +9,6 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
-import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Selenide.$;
 
 @Tag("JobTests")
 public class ApplyJobTest extends TestBaseHW15{

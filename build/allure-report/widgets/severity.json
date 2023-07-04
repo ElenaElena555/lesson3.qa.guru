@@ -1,51 +1,51 @@
 [ {
-  "uid" : "f90a743ba645aff5",
-  "name" : "Status of the vacancy",
-  "time" : {
-    "start" : 1688461272490,
-    "stop" : 1688461279594,
-    "duration" : 7104
-  },
-  "status" : "passed",
-  "severity" : "minor"
-}, {
-  "uid" : "2fafec1484531bb5",
-  "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova3@ is Applied",
-  "time" : {
-    "start" : 1688461291455,
-    "stop" : 1688461310282,
-    "duration" : 18827
-  },
-  "status" : "failed",
-  "severity" : "blocker"
-}, {
-  "uid" : "82ea3c5b51d55963",
+  "uid" : "ac83e2418a603f69",
   "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova@@gmail.com is Applied",
   "time" : {
-    "start" : 1688461279620,
-    "stop" : 1688461291437,
-    "duration" : 11817
+    "start" : 1688462123825,
+    "stop" : 1688462135677,
+    "duration" : 11852
   },
   "status" : "failed",
   "severity" : "blocker"
 }, {
-  "uid" : "829f6ca5621c9ca5",
+  "uid" : "2b9a71fe43869ca5",
+  "name" : "Vacancy parameters are exists in Description",
+  "time" : {
+    "start" : 1688462108979,
+    "stop" : 1688462117875,
+    "duration" : 8896
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "675ab1ee58632a96",
+  "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova3@ is Applied",
+  "time" : {
+    "start" : 1688462135701,
+    "stop" : 1688462148945,
+    "duration" : 13244
+  },
+  "status" : "failed",
+  "severity" : "blocker"
+}, {
+  "uid" : "7c451653cdb9fbd3",
   "name" : "checkErrorDisplayedWhenInvalidEmailEntered(String)",
   "time" : {
-    "start" : 1688461272472,
-    "stop" : 1688461272472,
+    "start" : 1688462118037,
+    "stop" : 1688462118037,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "blocker"
 }, {
-  "uid" : "edad42106ea78701",
-  "name" : "Vacancy parameters are exists in Description",
+  "uid" : "c1356f7aad58a193",
+  "name" : "Status of the vacancy",
   "time" : {
-    "start" : 1688461265061,
-    "stop" : 1688461272279,
-    "duration" : 7218
+    "start" : 1688462118053,
+    "stop" : 1688462123777,
+    "duration" : 5724
   },
   "status" : "passed",
-  "severity" : "blocker"
+  "severity" : "minor"
 } ]
