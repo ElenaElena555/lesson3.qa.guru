@@ -1,0 +1,288 @@
+{
+  "uid" : "e343b90ca61d119a",
+  "name" : "Vacancy parameters are exists in Description",
+  "fullName" : "guru.qa.HW15.ApplyJobTest.checkThatParametersExistsInDescription",
+  "historyId" : "2c7a88f1ab7c446f7c49c28ba3875741",
+  "time" : {
+    "start" : 1688457877641,
+    "stop" : 1688457889424,
+    "duration" : 11783
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 14,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open Vacancy Details Page",
+      "time" : {
+        "start" : 1688457877693,
+        "stop" : 1688457888314,
+        "duration" : 10621
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Check that type of work exists in vacancy description",
+      "time" : {
+        "start" : 1688457888320,
+        "stop" : 1688457888372,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "typeOfWork",
+        "value" : "Требуемый опыт работы: 1–3 года"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "addAttachments",
+    "time" : {
+      "start" : 1688457888387,
+      "stop" : 1688457889397,
+      "duration" : 1010
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5273d7937514904c",
+      "name" : "Last screenshot",
+      "source" : "5273d7937514904c.png",
+      "type" : "image/png",
+      "size" : 177568
+    }, {
+      "uid" : "82844bcbf3c49937",
+      "name" : "Page source",
+      "source" : "82844bcbf3c49937.html",
+      "type" : "text/plain",
+      "size" : 1599596
+    }, {
+      "uid" : "14d8cc777c6ee891",
+      "name" : "Browser console logs",
+      "source" : "14d8cc777c6ee891.txt",
+      "type" : "text/plain",
+      "size" : 106
+    }, {
+      "uid" : "8fd9cdaa18f57c02",
+      "name" : "Video",
+      "source" : "8fd9cdaa18f57c02.html",
+      "type" : "text/html",
+      "size" : 193
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "hasContent" : true,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "JobTests"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:guru.qa.HW15.ApplyJobTest]/[method:checkThatParametersExistsInDescription()]"
+  }, {
+    "name" : "story",
+    "value" : "Jobs"
+  }, {
+    "name" : "owner",
+    "value" : "elenash"
+  }, {
+    "name" : "feature",
+    "value" : "Job details"
+  }, {
+    "name" : "host",
+    "value" : "Helen"
+  }, {
+    "name" : "thread",
+    "value" : "21068@Helen.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.qa.HW15.ApplyJobTest"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.qa.HW15.ApplyJobTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkThatParametersExistsInDescription"
+  }, {
+    "name" : "suite",
+    "value" : "guru.qa.HW15.ApplyJobTest"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "owner" : "elenash",
+    "retries" : [ {
+      "uid" : "88f5965e393b7508",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Unable to parse remote response: <html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>401 Authorization Required</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n \nHost info: host: 'HELEN', ip: '192.168.1.4'",
+      "time" : {
+        "start" : 1688457805376,
+        "stop" : 1688457807810,
+        "duration" : 2434
+      }
+    }, {
+      "uid" : "98640d9ebb5957bb",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Unable to parse remote response: <html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>401 Authorization Required</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n \nHost info: host: 'HELEN', ip: '192.168.1.4'",
+      "time" : {
+        "start" : 1688457791173,
+        "stop" : 1688457794511,
+        "duration" : 3338
+      }
+    }, {
+      "uid" : "185bb1a7f5cd15ea",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Unable to parse remote response: <html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>401 Authorization Required</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n \nHost info: host: 'HELEN', ip: '192.168.1.4'",
+      "time" : {
+        "start" : 1688457702477,
+        "stop" : 1688457704976,
+        "duration" : 2499
+      }
+    }, {
+      "uid" : "6ff5959b77b5d4d0",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Unable to parse remote response: <html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>401 Authorization Required</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n \nHost info: host: 'HELEN', ip: '192.168.1.4'",
+      "time" : {
+        "start" : 1688457673764,
+        "stop" : 1688457676802,
+        "duration" : 3038
+      }
+    }, {
+      "uid" : "7f2fae8b8b4b2a9f",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n  (Session info: chrome=114.0.5735.134)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception\nBuild info: version: '4.8.1', revision: '8ebccac989'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [626df558740b5329e1789f6d2a1686db, findElement {using=css selector, value=.vacancy-description-list-item 2}]\nCapabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 114.0.5735.134, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\\Users\\ELENAS~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:49343}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49343/devtoo..., se:cdpVersion: 114.0.5735.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 626df558740b5329e1789f6d2a1686db",
+      "time" : {
+        "start" : 1688392752827,
+        "stop" : 1688392760609,
+        "duration" : 7782
+      }
+    }, {
+      "uid" : "d14360460556d416",
+      "status" : "failed",
+      "statusDetails" : "Element should have text \"Требуемый опыт работы: 1–3 года\" {p:last-child}\r\nElement: '<p data-qa=\"vacancy-view-location\">Москва, Пресненская набережная, 6с2</p>'\r\nActual value: text=\"Москва, Пресненская набережная, 6с2\"\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688392682306.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688392682306.0.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1688392670757,
+        "stop" : 1688392682755,
+        "duration" : 11998
+      }
+    }, {
+      "uid" : "7f7210576c7b4ac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1688392368055,
+        "stop" : 1688392374672,
+        "duration" : 6617
+      }
+    }, {
+      "uid" : "db2411ae9e41afd9",
+      "status" : "failed",
+      "statusDetails" : "Element should have text \"Полная занятость, удаленная работа\" {.vacancy-description-list-item}\r\nElement: '<p class=\"vacancy-description-list-item\">Требуемый опыт работы: 1–3 года</p>'\r\nActual value: text=\"Требуемый опыт работы: 1–3 года\"\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688392341816.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688392341816.0.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1688392329576,
+        "stop" : 1688392342292,
+        "duration" : 12716
+      }
+    }, {
+      "uid" : "a6c6b2a8f19f0c9f",
+      "status" : "failed",
+      "statusDetails" : "Element should have text \"Полная занятость, удаленная работа\" {[data-qa=\"vacancy-title\"]}\r\nElement: '<h1 class=\"bloko-header-section-1\" data-qa=\"vacancy-title\">QA automation engineer (middle)</h1>'\r\nActual value: text=\"QA automation engineer (middle)\"\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688391631321.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688391631321.0.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1688391619653,
+        "stop" : 1688391631766,
+        "duration" : 12113
+      }
+    }, {
+      "uid" : "c2794e5d63d9f5f7",
+      "status" : "failed",
+      "statusDetails" : "Element should have text \"удаленная работа\" {[data-qa=\"vacancy-title\"]}\r\nElement: '<h1 class=\"bloko-header-section-1\" data-qa=\"vacancy-title\">QA automation engineer (middle)</h1>'\r\nActual value: text=\"QA automation engineer (middle)\"\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688391546357.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688391546357.0.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1688391535555,
+        "stop" : 1688391546762,
+        "duration" : 11207
+      }
+    }, {
+      "uid" : "e6303d90beaa08ea",
+      "status" : "failed",
+      "statusDetails" : "Element not found {.vacancy-description}\r\nExpected: text \"удаленная работа\"\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688391480108.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688391480108.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".vacancy-description\"}",
+      "time" : {
+        "start" : 1688391469514,
+        "stop" : 1688391480546,
+        "duration" : 11032
+      }
+    }, {
+      "uid" : "a45fa406f4f72444",
+      "status" : "failed",
+      "statusDetails" : "Element not found {.vacancy-description}\r\nExpected: text \"удаленная работа\"\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688391161506.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688391161506.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".vacancy-description\"}",
+      "time" : {
+        "start" : 1688391149853,
+        "stop" : 1688391161974,
+        "duration" : 12121
+      }
+    }, {
+      "uid" : "26f301381a2c36dd",
+      "status" : "failed",
+      "statusDetails" : "Element should have text \"1-3 года\" {.bloko-columns-row}\r\nElement: '<div class=\"bloko-columns-row\">QA automation engineer (middle)\nВ архиве с 2 июня 2022\nот 200 000 ₽ до вычета налогов\nТребуемый опыт работы: 1–3 года\nПолная занятость, удаленная работа\nВакансия в архиве\nРаботодатель, вероятно, уже нашел нужного кандидата и больше не принимает отклики на эту вакансию\nПоказать описание вакансии\nПохожие вакансии\nQA Engineer\nбилайн: ИТ, Data, Digital\nМосква\nОпыт от 1 года до 3 лет\nМожно из дома\nРазработка тест-кейсов на основе требований и спецификаций. - Выполнение ручного тестирования, а также тестирование API. - Анализ результатов тестирования и документирование...\nМы рассчитываем, что у тебя есть опыт и знания для этой позиции: - Опыт работы в системном тестировании не менее 2...\nОткликнуться\nQA Automation Engineer\nООО Ртк-Элемент\nМосква, Менделеевская\nОпыт от 3 до 6 лет\nОтклик без резюме\nМожно из дома\nТестирование продукта, разработка автотестов. Взаимодействие с разработчиками, аналитиками. Участие в подборе инструментов тестирования. Участие в разработке шаблонов и правил тестирования...\nОпыт в тестировании от 3 лет, в автоматизированном тестировании от 2-х лет. Опыт подготовки тестовой документации. Опыт интеграционного тестирования...\nОткликнуться\nПоказать контакты\nMiddle QA Automation Engineer (Python)\nПочта Банк\nМосква\nОпыт от 1 года до 3 лет\nМожно из дома\nАктивно участвовать в работе scrum-команды автоматизации. Разрабатывать решения для автоматизированного тестирования на Python (for API/Web/mobile).\nПонимание жизненного цикла разработки программного обеспечения. Опыт разработки автоматизированных тестов на Python от 1 года. Опыт работы с Pytest.\nОткликнуться\nQA Engineer (Middle/Senior)\nООО ИЦ АЙ-ТЕКО\nМосква\nОпыт от 3 до 6 лет\nМожно из дома\nРабота в аккредитованной ИТ-компании. Работа в команде, использующей гибкий подход к разработке.\nОпыт работы тестировщиком от 3 лет (проведение различных типов тестирования, создание тестовых сценариев, локализация и документирование дефектов). Знание жизненного цикла...\nРаботодатель сейчас онлайн\nОткликнуться\nQA automation (senior)\nООО ФФИН Банк\nМосква, Выставочная и еще 2 \nОпыт от 3 до 6 лет\nОтклик без резюме\nМожно из дома\nЗаниматься непосредственно автоматизацией тестирования АБС. Поддерживать на достойном уровне тестирования на проекте. Внедрить CI\\CD на проекте. Ручное тестирование модулей...\nОпыт внедрения фреймворка автоматизации тестирования. Понимание page object. Опыт ревью кода автоматизаторов. Опыт внедрения доктрины написания автотестов. Опыт внедрения CI...\nРаботодатель сейчас онлайн\nОткликнуться\nПоказать контакты\nQA Lead\nWeb3 Tech\nМосква\nОпыт от 3 до 6 лет\nМожно из дома\nПовышение эффективности работы команды, внедрение практик TestOps, повышение прозрачности процесса тестирование. Анализ требований, разработка постановок и спецификаций для авто тестировщиков.\nВысшее техническое образование. Знание языка программирования Python. Знание и понимание ООП. Опыт применения pytest (фикстуры, параметризация), библиотеки requests.\nРаботодатель сейчас онлайн\nОткликнуться\nООО Центр Орбита\n4,2\n8 отзывов\nМосква, Пресненская набережная, 6с2\nКурс «Веб-разработчик»\nВы освоите все навыки веб-разработчика и сможете зарабатывать удаленно\nРеклама ∙ 18+\nООО «Эдюсон»\nОнлайн-курс: Data Science\nНаучитесь анализировать данные и применять модели машинного обучения\nРеклама ∙ 18+\nООО «Эдюсон»\nКурс: HR Бизнес-партнёр\nНаучитесь выстраивать стратегию, управлять проектами и HR-аналитике.\nРеклама ∙ 18+\nООО «Эдюсон»</div>'\r\nActual value: text=\"QA automation engineer (middle)\nВ архиве с 2 июня 2022\nот 200 000 ₽ до вычета налогов\nТребуемый опыт работы: 1–3 года\nПолная занятость, удаленная работа\nВакансия в архиве\nРаботодатель, вероятно, уже нашел нужного кандидата и больше не принимает отклики на эту вакансию\nПоказать описание вакансии\nПохожие вакансии\nQA Engineer\nбилайн: ИТ, Data, Digital\nМосква\nОпыт от 1 года до 3 лет\nМожно из дома\nРазработка тест-кейсов на основе требований и спецификаций. - Выполнение ручного тестирования, а также тестирование API. - Анализ результатов тестирования и документирование...\nМы рассчитываем, что у тебя есть опыт и знания для этой позиции: - Опыт работы в системном тестировании не менее 2...\nОткликнуться\nQA Automation Engineer\nООО Ртк-Элемент\nМосква, Менделеевская\nОпыт от 3 до 6 лет\nОтклик без резюме\nМожно из дома\nТестирование продукта, разработка автотестов. Взаимодействие с разработчиками, аналитиками. Участие в подборе инструментов тестирования. Участие в разработке шаблонов и правил тестирования...\nОпыт в тестировании от 3 лет, в автоматизированном тестировании от 2-х лет. Опыт подготовки тестовой документации. Опыт интеграционного тестирования...\nОткликнуться\nПоказать контакты\nMiddle QA Automation Engineer (Python)\nПочта Банк\nМосква\nОпыт от 1 года до 3 лет\nМожно из дома\nАктивно участвовать в работе scrum-команды автоматизации. Разрабатывать решения для автоматизированного тестирования на Python (for API/Web/mobile).\nПонимание жизненного цикла разработки программного обеспечения. Опыт разработки автоматизированных тестов на Python от 1 года. Опыт работы с Pytest.\nОткликнуться\nQA Engineer (Middle/Senior)\nООО ИЦ АЙ-ТЕКО\nМосква\nОпыт от 3 до 6 лет\nМожно из дома\nРабота в аккредитованной ИТ-компании. Работа в команде, использующей гибкий подход к разработке.\nОпыт работы тестировщиком от 3 лет (проведение различных типов тестирования, создание тестовых сценариев, локализация и документирование дефектов). Знание жизненного цикла...\nРаботодатель сейчас онлайн\nОткликнуться\nQA automation (senior)\nООО ФФИН Банк\nМосква, Выставочная и еще 2 \nОпыт от 3 до 6 лет\nОтклик без резюме\nМожно из дома\nЗаниматься непосредственно автоматизацией тестирования АБС. Поддерживать на достойном уровне тестирования на проекте. Внедрить CI\\CD на проекте. Ручное тестирование модулей...\nОпыт внедрения фреймворка автоматизации тестирования. Понимание page object. Опыт ревью кода автоматизаторов. Опыт внедрения доктрины написания автотестов. Опыт внедрения CI...\nРаботодатель сейчас онлайн\nОткликнуться\nПоказать контакты\nQA Lead\nWeb3 Tech\nМосква\nОпыт от 3 до 6 лет\nМожно из дома\nПовышение эффективности работы команды, внедрение практик TestOps, повышение прозрачности процесса тестирование. Анализ требований, разработка постановок и спецификаций для авто тестировщиков.\nВысшее техническое образование. Знание языка программирования Python. Знание и понимание ООП. Опыт применения pytest (фикстуры, параметризация), библиотеки requests.\nРаботодатель сейчас онлайн\nОткликнуться\nООО Центр Орбита\n4,2\n8 отзывов\nМосква, Пресненская набережная, 6с2\nКурс «Веб-разработчик»\nВы освоите все навыки веб-разработчика и сможете зарабатывать удаленно\nРеклама ∙ 18+\nООО «Эдюсон»\nОнлайн-курс: Data Science\nНаучитесь анализировать данные и применять модели машинного обучения\nРеклама ∙ 18+\nООО «Эдюсон»\nКурс: HR Бизнес-партнёр\nНаучитесь выстраивать стратегию, управлять проектами и HR-аналитике.\nРеклама ∙ 18+\nООО «Эдюсон»\"\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688385098849.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688385098849.0.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1688385087013,
+        "stop" : 1688385099526,
+        "duration" : 12513
+      }
+    }, {
+      "uid" : "87212d0feaf34d66",
+      "status" : "failed",
+      "statusDetails" : "Element should have text \"1-3 года\" {.wrapper-flat--H4DVL_qLjKLCo1sytcNI}\r\nElement: '<div class=\"wrapper-flat--H4DVL_qLjKLCo1sytcNI\">QA automation engineer (middle)\nВ архиве с 2 июня 2022\nот 200 000 ₽ до вычета налогов\nТребуемый опыт работы: 1–3 года\nПолная занятость, удаленная работа</div>'\r\nActual value: text=\"QA automation engineer (middle)\nВ архиве с 2 июня 2022\nот 200 000 ₽ до вычета налогов\nТребуемый опыт работы: 1–3 года\nПолная занятость, удаленная работа\"\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688385059524.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688385059524.0.html\r\nTimeout: 4 s.",
+      "time" : {
+        "start" : 1688385046113,
+        "stop" : 1688385060384,
+        "duration" : 14271
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "JobTests" ]
+  },
+  "source" : "e343b90ca61d119a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,149 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "guru.qa.HW13.properties.SystemPropertiesTest",
+    "children" : [ {
+      "name" : "Successful fill registration test",
+      "uid" : "27673147c2200261",
+      "parentUid" : "5eb8418baa77ecea851aa69fc9452d67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687782557263,
+        "stop" : 1687782565838,
+        "duration" : 8575
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5eb8418baa77ecea851aa69fc9452d67"
+  }, {
+    "name" : "guru.qa.HW15.ApplyJobTest",
+    "children" : [ {
+      "name" : "checkErrorDisplayedWhenInvalidEmailEntered(String) Check that Error is displayed when invalid Email elenasharapova@@gmail.com is entered",
+      "uid" : "baa7c423d12aee46",
+      "parentUid" : "56778a51d1604577970922f872c2e668",
+      "status" : "broken",
+      "time" : {
+        "start" : 1688457705225,
+        "stop" : 1688457705356,
+        "duration" : 131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "elenasharapova@@gmail.com" ]
+    }, {
+      "name" : "checkErrorDisplayedWhenInvalidEmailEntered(String) Check that Error is displayed when invalid Email elenasharapova3@ is entered",
+      "uid" : "f0b143d6e61ca2bb",
+      "parentUid" : "56778a51d1604577970922f872c2e668",
+      "status" : "broken",
+      "time" : {
+        "start" : 1688457705380,
+        "stop" : 1688457705473,
+        "duration" : 93
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "elenasharapova3@" ]
+    }, {
+      "name" : "Vacancy parameters are exists in Description",
+      "uid" : "e343b90ca61d119a",
+      "parentUid" : "56778a51d1604577970922f872c2e668",
+      "status" : "passed",
+      "time" : {
+        "start" : 1688457877641,
+        "stop" : 1688457889424,
+        "duration" : 11783
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 14,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkErrorDisplayedWhenInvalidEmailEntered(String)",
+      "uid" : "b1f0cce4495ac28d",
+      "parentUid" : "56778a51d1604577970922f872c2e668",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1688457889684,
+        "stop" : 1688457889684,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Status of the vacancy",
+      "uid" : "1f6c1cabb2de456b",
+      "parentUid" : "56778a51d1604577970922f872c2e668",
+      "status" : "passed",
+      "time" : {
+        "start" : 1688457889702,
+        "stop" : 1688457895540,
+        "duration" : 5838
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova@@gmail.com is Applied",
+      "uid" : "831e93301aff2c68",
+      "parentUid" : "56778a51d1604577970922f872c2e668",
+      "status" : "failed",
+      "time" : {
+        "start" : 1688457895575,
+        "stop" : 1688457907796,
+        "duration" : 12221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : true,
+      "parameters" : [ "elenasharapova@@gmail.com" ]
+    }, {
+      "name" : "checkValidEmailIsApplied(String) Check that valid Email elenasharapova3@ is Applied",
+      "uid" : "d30e6718e885386d",
+      "parentUid" : "56778a51d1604577970922f872c2e668",
+      "status" : "failed",
+      "time" : {
+        "start" : 1688457907815,
+        "stop" : 1688457933582,
+        "duration" : 25767
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : true,
+      "parameters" : [ "elenasharapova3@" ]
+    } ],
+    "uid" : "56778a51d1604577970922f872c2e668"
+  } ]
+}

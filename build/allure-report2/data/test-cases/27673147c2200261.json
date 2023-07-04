@@ -1,0 +1,211 @@
+{
+  "uid" : "27673147c2200261",
+  "name" : "Successful fill registration test",
+  "fullName" : "guru.qa.HW13.properties.SystemPropertiesTest.fillFormTest",
+  "historyId" : "88ba40edb2d9eb5ea3f81c4823cb3f2b",
+  "time" : {
+    "start" : 1687782557263,
+    "stop" : 1687782565838,
+    "duration" : 8575
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open registration form",
+      "time" : {
+        "start" : 1687782557285,
+        "stop" : 1687782563053,
+        "duration" : 5768
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Fill registration form",
+      "time" : {
+        "start" : 1687782563053,
+        "stop" : 1687782565095,
+        "duration" : 2042
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Verify form data",
+      "time" : {
+        "start" : 1687782565095,
+        "stop" : 1687782565274,
+        "duration" : 179
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "addAttachments",
+    "time" : {
+      "start" : 1687782565286,
+      "stop" : 1687782565827,
+      "duration" : 541
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8d0a51cfe8fc5b85",
+      "name" : "Last screenshot",
+      "source" : "8d0a51cfe8fc5b85.png",
+      "type" : "image/png",
+      "size" : 173683
+    }, {
+      "uid" : "beaea57b5831c204",
+      "name" : "Page source",
+      "source" : "beaea57b5831c204.html",
+      "type" : "text/plain",
+      "size" : 50676
+    }, {
+      "uid" : "d353d19ce3de7c4c",
+      "name" : "Browser console logs",
+      "source" : "d353d19ce3de7c4c.txt",
+      "type" : "text/plain",
+      "size" : 265
+    }, {
+      "uid" : "fc463def4646ec16",
+      "name" : "Video",
+      "source" : "fc463def4646ec16.html",
+      "type" : "text/html",
+      "size" : 193
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "hasContent" : true,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "demoqa"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:guru.qa.HW13.properties.SystemPropertiesTest]/[method:fillFormTest()]"
+  }, {
+    "name" : "host",
+    "value" : "Helen"
+  }, {
+    "name" : "thread",
+    "value" : "27340@Helen.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.qa.HW13.properties.SystemPropertiesTest"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.qa.HW13.properties.SystemPropertiesTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillFormTest"
+  }, {
+    "name" : "suite",
+    "value" : "guru.qa.HW13.properties.SystemPropertiesTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8e9835666ec4260b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687780319396,
+        "stop" : 1687780327273,
+        "duration" : 7877
+      }
+    }, {
+      "uid" : "400c4bd5b594a2ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687780257190,
+        "stop" : 1687780264786,
+        "duration" : 7596
+      }
+    }, {
+      "uid" : "163934ae0a0ee831",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687779876678,
+        "stop" : 1687779884511,
+        "duration" : 7833
+      }
+    }, {
+      "uid" : "24309d05cbc52011",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687779855322,
+        "stop" : 1687779864850,
+        "duration" : 9528
+      }
+    }, {
+      "uid" : "ec443f229b48009c",
+      "status" : "failed",
+      "statusDetails" : "Element not found {.practice-form-wrapper}\r\nExpected: text \"Student Registration Form\"\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1687779851946.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchWindowException: no such window: target window already closed",
+      "time" : {
+        "start" : 1687779840115,
+        "stop" : 1687779852047,
+        "duration" : 11932
+      }
+    }, {
+      "uid" : "f54d8e4608351172",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687779767022,
+        "stop" : 1687779776553,
+        "duration" : 9531
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "demoqa" ]
+  },
+  "source" : "27673147c2200261.json",
+  "parameterValues" : [ ]
+}

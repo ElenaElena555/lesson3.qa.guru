@@ -1,0 +1,159 @@
+{
+  "ab0691b98b9d0b1e41a43f5ee7b30c2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "831e93301aff2c68",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-qa=\"otp-code-form\"]}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688457907075.0.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688457907075.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-qa=\"otp-code-form\"]\"}",
+      "time" : {
+        "start" : 1688457895575,
+        "stop" : 1688457907796,
+        "duration" : 12221
+      }
+    } ]
+  },
+  "88ba40edb2d9eb5ea3f81c4823cb3f2b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27673147c2200261",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687782557263,
+        "stop" : 1687782565838,
+        "duration" : 8575
+      }
+    } ]
+  },
+  "2c7a88f1ab7c446f7c49c28ba3875741" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e343b90ca61d119a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1688457877641,
+        "stop" : 1688457889424,
+        "duration" : 11783
+      }
+    } ]
+  },
+  "4d307b5b3cec31828c34f1820b84db51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b1f0cce4495ac28d",
+      "status" : "skipped",
+      "statusDetails" : "void guru.qa.HW15.ApplyJobTest.checkErrorDisplayedWhenInvalidEmailEntered(java.lang.String) is @Disabled",
+      "time" : {
+        "start" : 1688457889684,
+        "stop" : 1688457889684,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a03117037452338b2a6ddf6c65b79fc9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "baa7c423d12aee46",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Unable to parse remote response: <html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>401 Authorization Required</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n \nHost info: host: 'HELEN', ip: '192.168.1.4'",
+      "time" : {
+        "start" : 1688457705225,
+        "stop" : 1688457705356,
+        "duration" : 131
+      }
+    } ]
+  },
+  "fc9f0edcbda24b834cf46b9124b9545d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0b143d6e61ca2bb",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Unable to parse remote response: <html>\r\n<head><title>401 Authorization Required</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>401 Authorization Required</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n \nHost info: host: 'HELEN', ip: '192.168.1.4'",
+      "time" : {
+        "start" : 1688457705380,
+        "stop" : 1688457705473,
+        "duration" : 93
+      }
+    } ]
+  },
+  "e030070412e95a9ea76cf6a3981f68f4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d30e6718e885386d",
+      "status" : "failed",
+      "statusDetails" : "Element not found {[data-qa=\"otp-code-form\"]}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688457932847.1.png\r\nPage source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688457932847.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[data-qa=\"otp-code-form\"]\"}",
+      "time" : {
+        "start" : 1688457907815,
+        "stop" : 1688457933582,
+        "duration" : 25767
+      }
+    } ]
+  },
+  "9e36c8c401de6e689d36f51fe2c5dc51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f6c1cabb2de456b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1688457889702,
+        "stop" : 1688457895540,
+        "duration" : 5838
+      }
+    } ]
+  }
+}
