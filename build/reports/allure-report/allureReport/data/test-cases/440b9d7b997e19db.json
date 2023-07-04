@@ -1,0 +1,163 @@
+{
+  "uid" : "440b9d7b997e19db",
+  "name" : "Status of the vacancy",
+  "fullName" : "guru.qa.HW15.ApplyJobTest.checkAddressVacancy",
+  "historyId" : "9e36c8c401de6e689d36f51fe2c5dc51",
+  "time" : {
+    "start" : 1688462118053,
+    "stop" : 1688462123777,
+    "duration" : 5724
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open Vacancy Details Page",
+      "time" : {
+        "start" : 1688462118053,
+        "stop" : 1688462123309,
+        "duration" : 5256
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Check that status of the vacancy is archive",
+      "time" : {
+        "start" : 1688462123309,
+        "stop" : 1688462123330,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "address",
+        "value" : "Вакансия в архиве"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "addAttachments",
+    "time" : {
+      "start" : 1688462123331,
+      "stop" : 1688462123777,
+      "duration" : 446
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "15450da3c9c41e12",
+      "name" : "Last screenshot",
+      "source" : "15450da3c9c41e12.png",
+      "type" : "image/png",
+      "size" : 177568
+    }, {
+      "uid" : "407a84907359e761",
+      "name" : "Page source",
+      "source" : "407a84907359e761.html",
+      "type" : "text/plain",
+      "size" : 1598204
+    }, {
+      "uid" : "db6b610aecec159b",
+      "name" : "Browser console logs",
+      "source" : "db6b610aecec159b.txt",
+      "type" : "text/plain",
+      "size" : 106
+    }, {
+      "uid" : "78aff0dc6d23995b",
+      "name" : "Video",
+      "source" : "78aff0dc6d23995b.html",
+      "type" : "text/html",
+      "size" : 193
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "JobTests"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:guru.qa.HW15.ApplyJobTest]/[method:checkAddressVacancy()]"
+  }, {
+    "name" : "story",
+    "value" : "Jobs"
+  }, {
+    "name" : "owner",
+    "value" : "elenash"
+  }, {
+    "name" : "feature",
+    "value" : "Job details"
+  }, {
+    "name" : "host",
+    "value" : "Helen"
+  }, {
+    "name" : "thread",
+    "value" : "9252@Helen.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "guru.qa.HW15.ApplyJobTest"
+  }, {
+    "name" : "testClass",
+    "value" : "guru.qa.HW15.ApplyJobTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkAddressVacancy"
+  }, {
+    "name" : "suite",
+    "value" : "guru.qa.HW15.ApplyJobTest"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "owner" : "elenash",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "JobTests" ]
+  },
+  "source" : "440b9d7b997e19db.json",
+  "parameterValues" : [ ]
+}
