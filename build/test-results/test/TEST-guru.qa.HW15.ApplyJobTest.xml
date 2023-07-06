@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="guru.qa.HW15.ApplyJobTest" tests="4" skipped="0" failures="2" errors="0" timestamp="2023-07-04T09:35:15" hostname="HELEN" time="34.487">
+<testsuite name="guru.qa.HW15.ApplyJobTest" tests="4" skipped="0" failures="2" errors="0" timestamp="2023-07-06T09:05:44" hostname="HELEN" time="36.975">
   <properties/>
-  <testcase name="Vacancy parameters are exists in Description" classname="guru.qa.HW15.ApplyJobTest" time="7.068"/>
-  <testcase name="Status of the vacancy" classname="guru.qa.HW15.ApplyJobTest" time="6.392"/>
-  <testcase name="Check that valid Email elenasharapova@@gmail.com is Applied" classname="guru.qa.HW15.ApplyJobTest" time="10.413">
-    <failure message="Element not found {[data-qa=&quot;otp-code-form&quot;]}&#13;&#10;Expected: visible&#13;&#10;Screenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688463338844.0.png&#13;&#10;Page source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688463338844.0.html&#13;&#10;Timeout: 4 s.&#13;&#10;Caused by: NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;[data-qa=&quot;otp-code-form&quot;]&quot;}" type="com.codeborne.selenide.ex.ElementNotFound">Element not found {[data-qa=&quot;otp-code-form&quot;]}
+  <testcase name="Vacancy parameters are exists in Description" classname="guru.qa.HW15.ApplyJobTest" time="7.932"/>
+  <testcase name="Status of the vacancy" classname="guru.qa.HW15.ApplyJobTest" time="5.23"/>
+  <testcase name="Check that valid Email elenasharapova@@gmail.com is Applied" classname="guru.qa.HW15.ApplyJobTest" time="11.734">
+    <failure message="Element not found {[data-qa=&quot;otp-code-form&quot;]}&#13;&#10;Expected: visible&#13;&#10;Screenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688634368380.0.png&#13;&#10;Page source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688634368380.0.html&#13;&#10;Timeout: 4 s.&#13;&#10;Caused by: NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;[data-qa=&quot;otp-code-form&quot;]&quot;}" type="com.codeborne.selenide.ex.ElementNotFound">Element not found {[data-qa=&quot;otp-code-form&quot;]}
 Expected: visible
-Screenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688463338844.0.png
-Page source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688463338844.0.html
+Screenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688634368380.0.png
+Page source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688634368380.0.html
 Timeout: 4 s.
 Caused by: NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;[data-qa=&quot;otp-code-form&quot;]&quot;}
 	at app//com.codeborne.selenide.impl.WebElementSource.createElementNotFoundError(WebElementSource.java:88)
@@ -169,9 +169,9 @@ For documentation on this error, please visit: https://selenium.dev/exceptions/#
 Build info: version: '4.8.1', revision: '8ebccac989'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [7d94eb6aeb105810664802d1e2ac2c6c, findElement {using=css selector, value=[data-qa=&quot;otp-code-form&quot;]}]
-Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\ELENAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50905}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50905/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 7d94eb6aeb105810664802d1e2ac2c6c
+Command: [8f2a78dbc60cba260f0dc3e9918ffc64, findElement {using=css selector, value=[data-qa=&quot;otp-code-form&quot;]}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\ELENAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62993}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62993/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f2a78dbc60cba260f0dc3e9918ffc64
 	at jdk.internal.reflect.GeneratedConstructorAccessor12.newInstance(Unknown Source)
 	at java.base@11.0.18/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
 	at java.base@11.0.18/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
@@ -194,11 +194,11 @@ Session ID: 7d94eb6aeb105810664802d1e2ac2c6c
 	... 149 more
 </failure>
   </testcase>
-  <testcase name="Check that valid Email elenasharapova3@ is Applied" classname="guru.qa.HW15.ApplyJobTest" time="10.553">
-    <failure message="Element not found {[data-qa=&quot;otp-code-form&quot;]}&#13;&#10;Expected: visible&#13;&#10;Screenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688463349360.1.png&#13;&#10;Page source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688463349360.1.html&#13;&#10;Timeout: 4 s.&#13;&#10;Caused by: NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;[data-qa=&quot;otp-code-form&quot;]&quot;}" type="com.codeborne.selenide.ex.ElementNotFound">Element not found {[data-qa=&quot;otp-code-form&quot;]}
+  <testcase name="Check that valid Email elenasharapova3@ is Applied" classname="guru.qa.HW15.ApplyJobTest" time="12.026">
+    <failure message="Element not found {[data-qa=&quot;otp-code-form&quot;]}&#13;&#10;Expected: visible&#13;&#10;Screenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688634380399.1.png&#13;&#10;Page source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688634380399.1.html&#13;&#10;Timeout: 4 s.&#13;&#10;Caused by: NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;[data-qa=&quot;otp-code-form&quot;]&quot;}" type="com.codeborne.selenide.ex.ElementNotFound">Element not found {[data-qa=&quot;otp-code-form&quot;]}
 Expected: visible
-Screenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688463349360.1.png
-Page source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688463349360.1.html
+Screenshot: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688634380399.1.png
+Page source: file:/C:/Users/ElenaSharapova/IdeaProjects/lesson3.qa.guru/build/reports/tests/1688634380399.1.html
 Timeout: 4 s.
 Caused by: NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;[data-qa=&quot;otp-code-form&quot;]&quot;}
 	at app//com.codeborne.selenide.impl.WebElementSource.createElementNotFoundError(WebElementSource.java:88)
@@ -360,9 +360,9 @@ For documentation on this error, please visit: https://selenium.dev/exceptions/#
 Build info: version: '4.8.1', revision: '8ebccac989'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [166a0eee27e813e64ebb1752c9c789e2, findElement {using=css selector, value=[data-qa=&quot;otp-code-form&quot;]}]
-Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\ELENAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50962}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50962/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 166a0eee27e813e64ebb1752c9c789e2
+Command: [3d7c4f1cdfdede90063203455475a090, findElement {using=css selector, value=[data-qa=&quot;otp-code-form&quot;]}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\ELENAS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63048}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63048/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d7c4f1cdfdede90063203455475a090
 	at jdk.internal.reflect.GeneratedConstructorAccessor12.newInstance(Unknown Source)
 	at java.base@11.0.18/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
 	at java.base@11.0.18/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
@@ -386,29 +386,29 @@ Session ID: 166a0eee27e813e64ebb1752c9c789e2
 </failure>
   </testcase>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 9517
+  <system-err><![CDATA[Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 46127
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jul 04, 2023 11:35:17 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jul 06, 2023 11:05:46 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 110
-Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 26847
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 45440
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jul 04, 2023 11:35:23 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jul 06, 2023 11:05:52 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 110
-Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 36311
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 8407
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jul 04, 2023 11:35:29 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jul 06, 2023 11:05:58 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 110
-Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 38085
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 9740
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Jul 04, 2023 11:35:40 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jul 06, 2023 11:06:09 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 110
 ]]></system-err>
 </testsuite>

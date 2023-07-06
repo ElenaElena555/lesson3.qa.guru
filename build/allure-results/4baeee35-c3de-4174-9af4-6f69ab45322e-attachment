@@ -1,0 +1,3 @@
+[2023-07-06T09:04:56.860Z] [SEVERE] chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+[2023-07-06T09:04:59.693Z] [SEVERE] https://hh.ru/employer_reviews/mine - Failed to load resource: the server responded with a status of 403 ()
+[2023-07-06T09:04:59.992Z] [SEVERE] chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
