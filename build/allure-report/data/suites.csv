@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Tue Jul 04 11:35:22 CEST 2023","Tue Jul 04 11:35:22 CEST 2023","0","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkErrorDisplayedWhenInvalidEmailEntered","checkErrorDisplayedWhenInvalidEmailEntered(String)",""
-"passed","Tue Jul 04 11:35:15 CEST 2023","Tue Jul 04 11:35:22 CEST 2023","6981","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkThatParametersExistsInDescription","Vacancy parameters are exists in Description",""
-"passed","Tue Jul 04 11:35:22 CEST 2023","Tue Jul 04 11:35:28 CEST 2023","6389","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkAddressVacancy","Status of the vacancy",""
-"failed","Tue Jul 04 11:35:39 CEST 2023","Tue Jul 04 11:35:49 CEST 2023","10548","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkValidEmailIsApplied","checkValidEmailIsApplied(String) Check that valid Email elenasharapova3@ is Applied",""
-"passed","Tue Jul 04 11:34:36 CEST 2023","Tue Jul 04 11:34:43 CEST 2023","6857","","guru.qa.HW12.RegistrationFormTestsFromGuru","","guru.qa.HW12.RegistrationFormTestsFromGuru","fillFormTest","Successful fill registration test",""
-"failed","Tue Jul 04 11:35:28 CEST 2023","Tue Jul 04 11:35:39 CEST 2023","10403","","guru.qa.HW15.ApplyJobTest","","guru.qa.HW15.ApplyJobTest","checkValidEmailIsApplied","checkValidEmailIsApplied(String) Check that valid Email elenasharapova@@gmail.com is Applied",""
